@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA-002A.kmz</name>
+	<StyleMap id="msn_placemark_circle1116">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle511</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle413">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle323</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1910</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot2700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot820</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot3110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot2800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot280</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot311">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot3300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot720</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot340">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot030</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot601</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot610">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot901</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin95400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin118500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin54200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight011">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight210">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot030">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1001">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot121">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1600">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1700">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot180">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1900">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2700">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot3110">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot910">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin54200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle323">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle511">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot003">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1210">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1610">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1910">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot2001">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot280">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot601">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot720">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot820">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot901">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin118500">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder id="0A897D0B0F30A9B076B8">
+		<name>RA-002A</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. Felipe Ángeles
+Zona de Transferencia Estación Matilde]]></description>
+				<LookAt>
+					<longitude>-98.80308468727978</longitude>
+					<latitude>20.03053943233155</latitude>
+					<altitude>0</altitude>
+					<heading>-75.30557770134105</heading>
+					<tilt>30.00050579327689</tilt>
+					<range>112.2199458195288</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle1116</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80303017825953,20.03039586078595,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Reforma Agraría Esq. Calle 18 de Agosto]]></description>
+				<LookAt>
+					<longitude>-98.80084640473584</longitude>
+					<latitude>20.0307044731016</latitude>
+					<altitude>0</altitude>
+					<heading>-75.30481760452795</heading>
+					<tilt>29.85965132871727</tilt>
+					<range>100.1515967268342</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80080758831281,20.03044756104333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Reforma Agraria Esq. Calle Lindero Pachuca - Zempoala]]></description>
+				<LookAt>
+					<longitude>-98.80111133897029</longitude>
+					<latitude>20.02720059135797</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03123570778269588</heading>
+					<tilt>28.57680979518441</tilt>
+					<range>991.3840323506556</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80087022921722,20.02737090705045,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2
+Calle Reforma Agraria Esq. Calle Emiliano Zapata]]></description>
+				<LookAt>
+					<longitude>-98.79869896144795</longitude>
+					<latitude>20.02549878464571</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03053924633857911</heading>
+					<tilt>28.52109616438002</tilt>
+					<range>705.7614464288426</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79911380212661,20.02575157047645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Ley Agraria Esq. Calle Tezontle]]></description>
+				<LookAt>
+					<longitude>-98.79496122610924</longitude>
+					<latitude>20.02914674412288</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02566562119539691</heading>
+					<tilt>30.00065714029181</tilt>
+					<range>146.3688567129241</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79507528486809,20.02897785166273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Ley Agraria (Fracc. Valle Diamante)]]></description>
+				<LookAt>
+					<longitude>-98.79214745578118</longitude>
+					<latitude>20.02825697455457</latitude>
+					<altitude>0</altitude>
+					<heading>6.963445474630754</heading>
+					<tilt>26.85557456129887</tilt>
+					<range>69.50939882172453</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79222996067517,20.02826930891048,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Ley Agraria Esq. Calle San Guillermo]]></description>
+				<LookAt>
+					<longitude>-98.78766002840582</longitude>
+					<latitude>20.02715966693782</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001066775923957297</heading>
+					<tilt>34.12755775061543</tilt>
+					<range>74.38351271106664</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78783279875687,20.02711712768334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. San Guillermo Esq. Calle Privada 21]]></description>
+				<LookAt>
+					<longitude>-98.78738276378024</longitude>
+					<latitude>20.02477965961402</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002451932912789521</heading>
+					<tilt>29.50882052290595</tilt>
+					<range>71.96158250444385</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78749707113758,20.02475071718231,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. San Guillermo Esq. Calle Privada 21]]></description>
+				<LookAt>
+					<longitude>-98.78818297879847</longitude>
+					<latitude>20.02223513651467</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02595474519853473</heading>
+					<tilt>29.01292866299259</tilt>
+					<range>699.089395731163</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1710</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78746420549261,20.02264912852307,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle sin nombre Esq. Circuito Nueva Santa Matilde]]></description>
+				<LookAt>
+					<longitude>-98.78834224685397</longitude>
+					<latitude>20.02207130592131</latitude>
+					<altitude>0</altitude>
+					<heading>-8.443163857638959e-05</heading>
+					<tilt>29.89076590420482</tilt>
+					<range>65.11964846614516</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78840525104904,20.02204415972844,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+ Esq. Circuito Nueva Santa Matilde Esq. Santa Verónica]]></description>
+				<LookAt>
+					<longitude>-98.79169189648835</longitude>
+					<latitude>20.02202541237951</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001232543780353824</heading>
+					<tilt>30.00027236480354</tilt>
+					<range>64.95195990698514</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79173108817265,20.02198299572786,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Av. Santa Verónica Esq. Calle San Javier]]></description>
+				<LookAt>
+					<longitude>-98.79173951500275</longitude>
+					<latitude>20.02080608676351</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001247625791335991</heading>
+					<tilt>30.0004201694923</tilt>
+					<range>93.70742711501457</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79194257282268,20.02071151649484,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+ Av. Santa Verónica Esq. Blvd. San Alfonso]]></description>
+				<LookAt>
+					<longitude>-98.79165084923503</longitude>
+					<latitude>20.01837026017435</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001257270333182591</heading>
+					<tilt>30.00060166888074</tilt>
+					<range>133.9491838272586</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79189737826236,20.01817890715723,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. San Alfonso Esq. Av. San Marcos]]></description>
+				<LookAt>
+					<longitude>-98.78963714278228</longitude>
+					<latitude>20.01801056827733</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005961121389909235</heading>
+					<tilt>30.00055091849988</tilt>
+					<range>122.5926835730644</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78990503099376,20.01792544747102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. San Alfonso Esq. Av. Santa Elena]]></description>
+				<LookAt>
+					<longitude>-98.7872288768714</longitude>
+					<latitude>20.01793192666129</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002395797424987011</heading>
+					<tilt>30.00033261580785</tilt>
+					<range>76.45986391033226</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1310</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78730233208302,20.01791844961274,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2A
+Av. sn Guilleromo Esq. Av. Santa Dolores</description>
+				<LookAt>
+					<longitude>-98.78595681942588</longitude>
+					<latitude>20.01711915567263</latitude>
+					<altitude>0</altitude>
+					<heading>26.46049213264478</heading>
+					<tilt>30.00270911297117</tilt>
+					<range>604.0855605752231</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot410</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78521916160227,20.01646854342914,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Av. San Guillermo
+Inicio y Cierre de Recorrido]]></description>
+				<LookAt>
+					<longitude>-98.78595681942588</longitude>
+					<latitude>20.01711915567263</latitude>
+					<altitude>0</altitude>
+					<heading>26.46049213264478</heading>
+					<tilt>30.00270911297117</tilt>
+					<range>604.0855605752231</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle413</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78513708806263,20.01522334772166,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2A
+Av. sn Guilleromo Esq. Av. Santa Dolores</description>
+				<LookAt>
+					<longitude>-98.78595681942588</longitude>
+					<latitude>20.01711915567263</latitude>
+					<altitude>0</altitude>
+					<heading>26.46049213264478</heading>
+					<tilt>30.00270911297117</tilt>
+					<range>604.0855605752231</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot410</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7850628355812,20.01649945353795,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2
+Blvd. San Alfonso Esq. FFCC Hidalgo]]></description>
+				<LookAt>
+					<longitude>-98.78613706008154</longitude>
+					<latitude>20.0171823829145</latitude>
+					<altitude>0</altitude>
+					<heading>26.46043091596358</heading>
+					<tilt>30.00272651118073</tilt>
+					<range>607.8554532427556</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1310</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78368873160412,20.01796369409356,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. San Alfonso Esq. Av. Santa Elena]]></description>
+				<LookAt>
+					<longitude>-98.78690258507281</longitude>
+					<latitude>20.0181940993483</latitude>
+					<altitude>0</altitude>
+					<heading>-0.346525542664857</heading>
+					<tilt>29.04392909340282</tilt>
+					<range>177.3990450891407</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1310</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78728171958753,20.01808618889105,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. San Alfonso Esq. Av. San Marcos]]></description>
+				<LookAt>
+					<longitude>-98.7893794403312</longitude>
+					<latitude>20.01816531976292</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3536973260162425</heading>
+					<tilt>29.96121140200818</tilt>
+					<range>133.1304359270463</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot311</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78970160288256,20.01810754289514,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Blvd. San Alfonso Esq. Av. Santa Verónica]]></description>
+				<LookAt>
+					<longitude>-98.7916229532285</longitude>
+					<latitude>20.01820293025862</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3547528831929917</heading>
+					<tilt>30.00029312360127</tilt>
+					<range>64.60206468271539</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79174684861412,20.01814314603006,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Av. Santa Verónica Esq. Calle San Javier]]></description>
+				<LookAt>
+					<longitude>-98.79143107451792</longitude>
+					<latitude>20.02051442585126</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3502941307175825</heading>
+					<tilt>30.14764866821402</tilt>
+					<range>112.7669573717232</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2800</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79178627319727,20.02055695868847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Av. Santa Verónica  Esq. Circuito Nueva Santa Matilde]]></description>
+				<LookAt>
+					<longitude>-98.79142543570167</longitude>
+					<latitude>20.02188433313401</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3492822837248464</heading>
+					<tilt>30.00022295015851</tilt>
+					<range>48.77302480411908</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2800</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79149803676987,20.0218448674101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Circuito Nueva Santa Matilde Esq.  Calle Sin Nombre]]></description>
+				<LookAt>
+					<longitude>-98.78799519129262</longitude>
+					<latitude>20.02129223674314</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02795421507047574</heading>
+					<tilt>28.06959886695309</tilt>
+					<range>735.6904639637844</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1710</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78728586095036,20.02267902011779,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Circuito Nueva Santa Matilde Esq.  Calle Sin Nombre]]></description>
+				<LookAt>
+					<longitude>-98.78835026273447</longitude>
+					<latitude>20.02184745157329</latitude>
+					<altitude>0</altitude>
+					<heading>0.001068870275335867</heading>
+					<tilt>32.01021239693547</tilt>
+					<range>79.9177651941913</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1710</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7884360252899,20.02191139160899,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2
+Blvd. San Guillermo Esq. Calle Privada 21]]></description>
+				<LookAt>
+					<longitude>-98.78709505022189</longitude>
+					<latitude>20.0249794297858</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001202674719152314</heading>
+					<tilt>30.00049323047816</tilt>
+					<range>109.7572576217699</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1710</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7873448104724,20.02487125589977,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Ley Agraria Parabús Aurrera]]></description>
+				<LookAt>
+					<longitude>-98.78782280170333</longitude>
+					<latitude>20.02739088204346</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001292732912805415</heading>
+					<tilt>30.00041137118285</tilt>
+					<range>91.34156607806923</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot610</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.787986297788,20.02727679269333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Ley Agraria (Fracc. Valle Diamante)]]></description>
+				<LookAt>
+					<longitude>-98.79175514274284</longitude>
+					<latitude>20.02817340564685</latitude>
+					<altitude>0</altitude>
+					<heading>-75.30146837308189</heading>
+					<tilt>32.15522485852221</tilt>
+					<range>81.33781602796506</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot610</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79177595032552,20.02823093689593,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Ley Agraria Esq. Calle Tezontle]]></description>
+				<LookAt>
+					<longitude>-98.79491936555354</longitude>
+					<latitude>20.02902469948555</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02790147107166687</heading>
+					<tilt>28.53577765670515</tilt>
+					<range>81.15915416903111</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot340</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79506361350379,20.02905528795131,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Nicolas Bravo Esq. Frente Plantel CECYTEH]]></description>
+				<LookAt>
+					<longitude>-98.79757776882595</longitude>
+					<latitude>20.02689827831716</latitude>
+					<altitude>0</altitude>
+					<heading>-75.30351937442406</heading>
+					<tilt>31.58256759975301</tilt>
+					<range>128.2030241859945</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot340</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79747380846071,20.02664991365063,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Nicolas Bravo Esq. Frente Plantel CECYTEH]]></description>
+				<LookAt>
+					<longitude>-98.79848139168435</longitude>
+					<latitude>20.0253082089388</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03046473327681459</heading>
+					<tilt>28.52110195387197</tilt>
+					<range>707.1117376046195</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79758494485343,20.02639648407202,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentador " 2A
+Calle Reforma Agraria Esq. Calle Julián Villagrán]]></description>
+				<LookAt>
+					<longitude>-98.79881389120133</longitude>
+					<latitude>20.02600603826412</latitude>
+					<altitude>0</altitude>
+					<heading>-75.30426665882004</heading>
+					<tilt>28.13762712557506</tilt>
+					<range>79.50988161949871</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot340</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79894608082604,20.02585142157001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 2A
+Calle Reforma Agraria Esq. Calle Lindero Pachuca Zempoala]]></description>
+				<LookAt>
+					<longitude>-98.80080106823394</longitude>
+					<latitude>20.02771973097484</latitude>
+					<altitude>0</altitude>
+					<heading>-75.30482693607571</heading>
+					<tilt>29.5531275815035</tilt>
+					<range>62.31423483506197</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot340</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80083380284499,20.0276071489181,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>RA-002A</name>
+				<visibility>0</visibility>
+				<description>Conexiones: T01, T02, T04, T05 (Estación Gabriel Mancera)
+                     RA-001, RA-003Flota: 3 Autobuses de 8 Mts.
+Recorrido Ida y Vuelta: 6.8 km
+Tiempo de Ciclo: 29.9 Min.
+Intervalo: 12.1 Min.</description>
+				<styleUrl>#msn_ylw-pushpin95400</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.80295367998757,20.03043067678648,0 -98.80258652138639,20.0309512921931,0 -98.79962017231557,20.03018749989382,0 -98.80056231116211,20.02843847960218,0 -98.80096081179306,20.0275855813965,0 -98.79992388427148,20.026640521843,0 -98.79918312612689,20.02594838402297,0 -98.79898970755941,20.02575173547773,0 -98.79861133182332,20.0261255069694,0 -98.7982604434833,20.02582744316278,0 -98.79745130923553,20.02657382116487,0 -98.79667387751958,20.02719016729342,0 -98.79589109764623,20.02792865279319,0 -98.7955162992987,20.02759333055772,0 -98.79522609278948,20.02817319167248,0 -98.79513908807721,20.02903024491267,0 -98.79337141616223,20.02858575438,0 -98.79126939436158,20.02804687917202,0 -98.78920495893908,20.02751406780405,0 -98.7876616663637,20.02712919613197,0 -98.78748836279134,20.02708575948949,0 -98.78746057555267,20.0248545960096,0 -98.78743021746799,20.02260835377998,0 -98.78828732067693,20.02257574525006,0 -98.78834046780298,20.02250477052383,0 -98.78833133898345,20.02203758529216,0 -98.79052568179539,20.02196732549542,0 -98.79177318846405,20.02194382516186,0 -98.79190750761609,20.02191851805314,0 -98.79194363064686,20.02186509006523,0 -98.79191240341243,20.02071132731196,0 -98.79185377841321,20.01812300102141,0 -98.7918108758808,20.01799397790012,0 -98.78989420437821,20.01797359233141,0 -98.78750422101587,20.01796282606745,0 -98.78517471431815,20.01796377167386,0 -98.78518167109245,20.01761942466368,0 -98.78517672980171,20.01687844813369,0 -98.78519877562364,20.0158304172088,0 -98.78521584074106,20.01545059365631,0 -98.78520063143667,20.0152762681629,0 -98.7851071448369,20.01524474948941,0 -98.7850342816496,20.01528624767573,0 -98.78498476808664,20.01789687614039,0 -98.78363393580746,20.01789194626481,0 -98.78361847458957,20.01806233819901,0 -98.78991315817412,20.01814432505234,0 -98.7917437831846,20.01813800399612,0 -98.79177875016244,20.02062072821531,0 -98.79179269652489,20.02185318976526,0 -98.7882008778155,20.02193829179226,0 -98.7882239332406,20.02245048050111,0 -98.78816094222452,20.02250577801784,0 -98.78727248528045,20.02251544872189,0 -98.78733747400256,20.02681247225365,0 -98.78730015928272,20.02708339883578,0 -98.78983193299081,20.02774960721311,0 -98.79488439387451,20.02905617658463,0 -98.79515245010522,20.02911713591204,0 -98.79523046200791,20.02911053485057,0 -98.79536054133055,20.02824338733309,0 -98.79557421193097,20.02781446403696,0 -98.79586747164382,20.028102518046,0 -98.79672960907087,20.02730187846364,0 -98.79755360966453,20.0266028696046,0 -98.79825985173089,20.02597058798813,0 -98.79859650826121,20.02630520508666,0 -98.79897878745271,20.02582347152901,0 -98.80087909680952,20.02762713439943,0 -98.80395034838888,20.02923686509478,0 -98.80295367998757,20.03043067678648,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

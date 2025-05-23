@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA 1A.kmz</name>
+	<StyleMap id="msn_placemark_circle502">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle1105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot711</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot8100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot280</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot501">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot4100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot801">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot320</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin954000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11850</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5420</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight400">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot002">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1010">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot220">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2500">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot280">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot320">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot710">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5420">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle1105">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1110">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1120">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1700">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot301">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot4100">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot711">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot8100">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11850">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder id="255EA2493830A9B076B8">
+		<name>RA 1A</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1</description>
+				<styleUrl>#msn_placemark_circle502</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80320527771842,20.03071270195093,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1A
+
+
+Calle Reforma agraria, Esquina Calle Ejido 8</description>
+				<styleUrl>#msn_shaded_dot1900</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80554462735535,20.03224731812659,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+
+Calle Reforma Agraria, Esquina Calle Ejido 11</description>
+				<styleUrl>#msn_shaded_dot710</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80692587342021,20.03320901563979,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+
+Calle Lindero, Esquina Calle 16 de Enero</description>
+				<styleUrl>#msn_shaded_dot501</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80763917699052,20.03115662806486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+
+Calle 16 de Enero, Av. Lindero.</description>
+				<styleUrl>#msn_shaded_dot1800</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80883090755123,20.03069135807647,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+Calle 25 de agosto, Esquina Calle Lindero.</description>
+				<styleUrl>#msn_shaded_dot801</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81286834321443,20.03396581333852,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+
+Calle Juvencio Menenses, Valle Verde</description>
+				<styleUrl>#msn_shaded_dot1800</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81127888005702,20.02986048288559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1A
+Calle 25 de agosto, Esquina Calle 10 de Mayo</description>
+				<styleUrl>#msn_shaded_dot1700</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.8130581807544,20.032354979433,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Juvencio Meneses, Esquina 25 de agosto</description>
+				<styleUrl>#msn_shaded_dot501</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81286147258486,20.02919626971916,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+Calle 25 de agosto, Esquina Calle 16 de Enero</description>
+				<styleUrl>#msn_shaded_dot1700</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.8128491806454,20.0299850449898,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1a
+Calle 25 de agosto, Esquina Calle 16 de Enero</description>
+				<styleUrl>#msn_shaded_dot010</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81303352956772,20.03017170897539,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+Calle 25 de agosto, Esquina Calle 10 de Mayo</description>
+				<styleUrl>#msn_shaded_dot1700</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81289159740321,20.03217867635732,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1A
+
+Calle Juvencio Menenses, Valle Verde</description>
+				<styleUrl>#msn_shaded_dot1800</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81128941833948,20.02972615860111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1A
+
+Calle 16 de Enero, Av. Lindero.</description>
+				<styleUrl>#msn_shaded_dot1800</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80896428745707,20.03052239352749,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1A
+
+Calle Lindero, Esquina Calle 16 de Enero</description>
+				<styleUrl>#msn_shaded_dot710</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80755536334973,20.03111250255798,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1A
+
+Calle Reforma Agraria, Esquina Calle Ejido 11</description>
+				<styleUrl>#msn_shaded_dot1900</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80679286367311,20.03321426359606,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1
+
+
+Calle Reforma agraria, Esquina Calle Ejido 8</description>
+				<styleUrl>#msn_shaded_dot1900</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80546932120531,20.03228542465491,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Ruta sin título</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin954000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.81299906656224,20.03411168832849,0 -98.81303548861966,20.03190604108197,0 -98.81296904823888,20.02924543987609,0 -98.8129317055807,20.02913793239375,0 -98.81248054454399,20.02921396433699,0 -98.81207053829348,20.02933482564023,0 -98.81093659532684,20.02997351052728,0 -98.810625034849,20.03020439856248,0 -98.80901196098887,20.03054894810864,0 -98.80743376222205,20.0311761599569,0 -98.80826907248293,20.03166459621762,0 -98.80677006393239,20.0332681718778,0 -98.80414553179565,20.03114361754156,0 -98.8036412816284,20.03166032823539,0 -98.80295607750635,20.03100245053003,0 -98.80335620811771,20.03056379644686,0 -98.80527083220879,20.03214915901572,0 -98.80677762088796,20.03337402654296,0 -98.80841765999624,20.03163745428786,0 -98.80760736939418,20.03116934551224,0 -98.80800632137763,20.03101067668052,0 -98.80848551428629,20.03080324844037,0 -98.80898446637894,20.03061179574581,0 -98.81036090930314,20.03032236319609,0 -98.81059976622966,20.03026821077441,0 -98.81188813014529,20.029481118342,0 -98.81240728052326,20.02929149977006,0 -98.81291696144541,20.02920869426397,0 -98.81292411245691,20.03092471620759,0 -98.81286970276631,20.03341571634749,0 -98.8128248654091,20.03412913472654,0 -98.81305554747659,20.0342465750405,0 -98.81314361017149,20.03424543658582,0 -98.81314517561451,20.0341722823228,0 -98.81299906656224,20.03411168832849,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

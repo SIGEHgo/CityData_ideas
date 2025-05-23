@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA 1B.kmz</name>
+	<StyleMap id="msn_placemark_circle029">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle018</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot131</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot230">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot13100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot2300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot27000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot240">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot811</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot4200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot901">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot912">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot411</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin95400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin118500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin54200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight0100">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1310">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot13100">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2300">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2600">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot411">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot4200">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot510">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin54200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle018">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot131">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot2200">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot240">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot250">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot2700">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot27000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot811">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin118500">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder id="1135AE1D8330A9B076B8">
+		<name>RA 1B</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Lindero esquina Carr. México - Pachuca.]]></description>
+				<LookAt>
+					<longitude>-98.79905423113222</longitude>
+					<latitude>20.03554470983702</latitude>
+					<altitude>0</altitude>
+					<heading>0.006997250317202374</heading>
+					<tilt>24.09524942994359</tilt>
+					<range>448.2914634280286</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7987853909808,20.03584498488081,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Calle Lindero de Durazno Esq. Calle Mineria]]></description>
+				<LookAt>
+					<longitude>-98.80047124120665</longitude>
+					<latitude>20.0371746816959</latitude>
+					<altitude>0</altitude>
+					<heading>0.001416435246481986</heading>
+					<tilt>26.99122798512754</tilt>
+					<range>120.699799325195</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80069439110849,20.03713928870794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Lindero de Durazno Esq. Calle Ejido 10]]></description>
+				<LookAt>
+					<longitude>-98.80289643661644</longitude>
+					<latitude>20.03819810353971</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006673810151374899</heading>
+					<tilt>30.5046954438092</tilt>
+					<range>69.95743825017</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80288529033191,20.03828871470412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Maquinaria Esq. Calle  Servicios Técnicos]]></description>
+				<LookAt>
+					<longitude>-98.80434095009991</longitude>
+					<latitude>20.03755110261989</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002408028153798705</heading>
+					<tilt>36.66043441176151</tilt>
+					<range>68.24305696428738</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80440030214136,20.03749776717005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Maquinaria Esq. Calle  Carreteras Federales]]></description>
+				<LookAt>
+					<longitude>-98.80526525287466</longitude>
+					<latitude>20.03593245608135</latitude>
+					<altitude>0</altitude>
+					<heading>-38.7823925290822</heading>
+					<tilt>27.56381623515116</tilt>
+					<range>48.13626571598738</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.805340572318,20.03590188743001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Asfalto Esq. Calle Maquinaria]]></description>
+				<LookAt>
+					<longitude>-98.80644830721211</longitude>
+					<latitude>20.03395297353323</latitude>
+					<altitude>0</altitude>
+					<heading>-38.78281953565567</heading>
+					<tilt>29.70472664320133</tilt>
+					<range>40.84983544630178</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot240</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80649173185168,20.03390188950325,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Carr. México - Pachuca.</description>
+				<styleUrl>#msn_placemark_circle029</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80320666343654,20.03067224627412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 7</description>
+				<styleUrl>#msn_shaded_dot1001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80552750142712,20.03235591257117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 13</description>
+				<styleUrl>#msn_shaded_dot1110</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80877806473393,20.03498688743189,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 10</description>
+				<styleUrl>#msn_shaded_dot912</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80694877451515,20.03345327973257,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 17</description>
+				<styleUrl>#msn_shaded_dot1110</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81008500631279,20.03606685558063,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6-1</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 19</description>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81156326916103,20.03772481093787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 14</description>
+				<styleUrl>#msn_shaded_dot240</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80948667342398,20.03544002109236,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 10</description>
+				<styleUrl>#msn_shaded_dot240</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80689483382406,20.03334508911997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Lindero esquina Carr. México - Pachuca.]]></description>
+				<LookAt>
+					<longitude>-98.79905423113222</longitude>
+					<latitude>20.03554470983702</latitude>
+					<altitude>0</altitude>
+					<heading>0.006997250317202374</heading>
+					<tilt>24.09524942994359</tilt>
+					<range>448.2914634280286</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7987853909808,20.03584498488081,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Calle Lindero de Durazno Esq. Calle Mineria]]></description>
+				<LookAt>
+					<longitude>-98.80047124120665</longitude>
+					<latitude>20.0371746816959</latitude>
+					<altitude>0</altitude>
+					<heading>0.001416435246481986</heading>
+					<tilt>26.99122798512754</tilt>
+					<range>120.699799325195</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80069439110849,20.03713928870794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Lindero de Durazno Esq. Calle Ejido 10]]></description>
+				<LookAt>
+					<longitude>-98.80289643661644</longitude>
+					<latitude>20.03819810353971</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006673810151374899</heading>
+					<tilt>30.5046954438092</tilt>
+					<range>69.95743825017</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80288529033191,20.03828871470412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Maquinaria Esq. Calle  Servicios Técnicos]]></description>
+				<LookAt>
+					<longitude>-98.80434095009991</longitude>
+					<latitude>20.03755110261989</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002408028153798705</heading>
+					<tilt>36.66043441176151</tilt>
+					<range>68.24305696428738</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80440030214136,20.03749776717005,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Maquinaria Esq. Calle  Carreteras Federales]]></description>
+				<LookAt>
+					<longitude>-98.80526525287466</longitude>
+					<latitude>20.03593245608135</latitude>
+					<altitude>0</altitude>
+					<heading>-38.7823925290822</heading>
+					<tilt>27.56381623515116</tilt>
+					<range>48.13626571598738</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot901</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.805340572318,20.03590188743001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 1A
+Calle Asfalto Esq. Calle Maquinaria]]></description>
+				<LookAt>
+					<longitude>-98.80644830721211</longitude>
+					<latitude>20.03395297353323</latitude>
+					<altitude>0</altitude>
+					<heading>-38.78281953565567</heading>
+					<tilt>29.70472664320133</tilt>
+					<range>40.84983544630178</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot240</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80649173185168,20.03390188950325,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Carr. México - Pachuca.</description>
+				<styleUrl>#msn_placemark_circle029</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80320666343654,20.03067224627412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 7</description>
+				<styleUrl>#msn_shaded_dot1001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80552750142712,20.03235591257117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 13</description>
+				<styleUrl>#msn_shaded_dot1110</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80877806473393,20.03498688743189,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 10</description>
+				<styleUrl>#msn_shaded_dot912</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80694877451515,20.03345327973257,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 17</description>
+				<styleUrl>#msn_shaded_dot1110</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81008500631279,20.03606685558063,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 19</description>
+				<styleUrl>#msn_shaded_dot230</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.81131650490033,20.03701315363611,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 14</description>
+				<styleUrl>#msn_shaded_dot240</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80948667342398,20.03544002109236,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description>Parada Ruta Alimentadora 1B
+
+Calle Reforma Agraria esquina Calle Ejido 10</description>
+				<styleUrl>#msn_shaded_dot240</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80689483382406,20.03334508911997,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>RUTA 1B</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin95400</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.81123947098337,20.03719830007937,0 -98.81135051068637,20.03708967794292,0 -98.8113055558417,20.0370620233121,0 -98.80841517320539,20.03464425726141,0 -98.80751585482565,20.03393263216887,0 -98.80677538667724,20.03327263271423,0 -98.80635850556428,20.0337391574389,0 -98.80652668873113,20.03389816664384,0 -98.80535598656977,20.03586500063637,0 -98.80370956512377,20.03874317367112,0 -98.80048628790578,20.03705232438996,0 -98.79859078506395,20.03603286671923,0 -98.80086046511676,20.03331899012475,0 -98.80335503935811,20.03056014062447,0 -98.8086839263858,20.03495765687556,0 -98.81123872361968,20.03706979562869,0 -98.8111770399594,20.03716846210069,0 -98.81104046219319,20.03735151417694,0 -98.81097490655381,20.03743729160128,0 -98.8110644198733,20.0375055258381,0 -98.81135419300388,20.03770230076472,0 -98.81150739155386,20.03781665158606,0 -98.81156049117047,20.0377503625295,0 -98.81136941615482,20.03763540632793,0 -98.81124148579089,20.03754469065841,0 -98.8111100154462,20.03745896431697,0 -98.81108731650913,20.0374235031647,0 -98.81123947098337,20.03719830007937,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA-016.kmz</name>
+	<StyleMap id="msn_placemark_circle134">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle87</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle89">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle158</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot152">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot311</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot450</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot301">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot221</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot341</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot341</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot142</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight101">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight91">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot111">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot142">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot341">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot450">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle158">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle87">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot03">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot221">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot311">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot341">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder id="19A487206130A9B076B1">
+		<name>RA-016</name>
+		<visibility>0</visibility>
+		<Folder id="0DE3799FB030A9B098FF">
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark id="09B5B226A130A9B13E40">
+				<name>​1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.77349684147825</longitude>
+					<latitude>20.09663733854173</latitude>
+					<altitude>0</altitude>
+					<heading>1.183989974226669</heading>
+					<tilt>22.44419726661365</tilt>
+					<range>1160.040257477524</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle134</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77039096145397,20.09637476992069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0BE7CA690330A9B13EF4">
+				<name>2</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.77603010853461</longitude>
+					<latitude>20.09587863141767</latitude>
+					<altitude>0</altitude>
+					<heading>1.183119611111777</heading>
+					<tilt>22.44419078760488</tilt>
+					<range>1158.150378606031</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77067256875151,20.09762753150886,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0710F853E530A9B13EF5">
+				<name>​19</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.77877651952271</longitude>
+					<latitude>20.09901934875416</latitude>
+					<altitude>0</altitude>
+					<heading>5.784980746926341</heading>
+					<tilt>23.20512292052195</tilt>
+					<range>2828.82769447454</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot56</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77275049092857,20.09691002691724,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1CAA0C5FC630A9B13EF5">
+				<name>​4</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.77363564645195</longitude>
+					<latitude>20.0974810268967</latitude>
+					<altitude>0</altitude>
+					<heading>1.183942102152021</heading>
+					<tilt>22.44582736614155</tilt>
+					<range>1635.594099037146</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77855196616071,20.09736614733124,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0BC88F284730A9B13EF6">
+				<name>​5</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.77363564645195</longitude>
+					<latitude>20.0974810268967</latitude>
+					<altitude>0</altitude>
+					<heading>1.183942102152021</heading>
+					<tilt>22.44582736614155</tilt>
+					<range>1635.594099037146</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7818901313485,20.09840702084263,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1AAC08048030A9B13EF6">
+				<name>​17</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.7823339848654</longitude>
+					<latitude>20.09952659510747</latitude>
+					<altitude>0</altitude>
+					<heading>5.783758299011297</heading>
+					<tilt>23.20572265924341</tilt>
+					<range>2832.07355383248</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot56</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77876396363052,20.09724851190211,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0DC4D5B7C330A9B13EF7">
+				<name>​15</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Blvd. Ramón G. Bonfil Esq. Calle Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.78505185629217</longitude>
+					<latitude>20.09604309484266</latitude>
+					<altitude>0</altitude>
+					<heading>1.18001945077784</heading>
+					<tilt>22.44579546684079</tilt>
+					<range>1626.290131591659</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot301</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78388355207527,20.09646327579316,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1343A36B9E30A9B13EF7">
+				<name>​16</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Blvd. Ramón G. Bonfil Esq. Calle Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.78252879432806</longitude>
+					<latitude>20.09783837733174</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003369240988927939</heading>
+					<tilt>37.15207539987922</tilt>
+					<range>414.4097554326652</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot56</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78245175180345,20.09847880106208,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0DECFC83D530A9B13EF8">
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+ Av. San Carlos Esq. Calle San Juan]]></description>
+				<LookAt>
+					<longitude>-98.78591175552747</longitude>
+					<latitude>20.09870810846196</latitude>
+					<altitude>0</altitude>
+					<heading>-16.78311383797146</heading>
+					<tilt>29.02611814513584</tilt>
+					<range>416.3828722852132</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot211</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78758018168867,20.09816964249958,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="02976B7BA130A9B13EF9">
+				<name>​12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Av. San Carlos Esq. Calle San Diego]]></description>
+				<LookAt>
+					<longitude>-98.7860274894869</longitude>
+					<latitude>20.09806596912659</latitude>
+					<altitude>0</altitude>
+					<heading>-16.78279948289006</heading>
+					<tilt>30.00219651987335</tilt>
+					<range>489.26411024867</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot301</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78610473846129,20.09787833973485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0A91FCB70130A9B13EFA">
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Blvd. G Bonfil Esq. Calle San Juan de la Cruz]]></description>
+				<LookAt>
+					<longitude>-98.78495740847491</longitude>
+					<latitude>20.09569495417321</latitude>
+					<altitude>0</altitude>
+					<heading>-77.44917418792845</heading>
+					<tilt>57.93226494290689</tilt>
+					<range>772.19022669457</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot301</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7848122044818,20.09493910003881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1E76563E9030A9B13EFA">
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Av. San Carlos Esq. Calle San Antonio]]></description>
+				<LookAt>
+					<longitude>-98.78413276789129</longitude>
+					<latitude>20.09781052553912</latitude>
+					<altitude>0</altitude>
+					<heading>-49.45052996739996</heading>
+					<tilt>46.62342207500093</tilt>
+					<range>290.321331993742</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot301</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78461582457258,20.09759024663537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="05A66D6EDC30A9B13EFB">
+				<name>​3</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.77363564645195</longitude>
+					<latitude>20.0974810268967</latitude>
+					<altitude>0</altitude>
+					<heading>1.183942102152021</heading>
+					<tilt>22.44582736614155</tilt>
+					<range>1635.594099037146</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77595385376686,20.0968251903608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0E7CA36A8A30A9B13EFC">
+				<name>​18</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+Camino Real de la Plata]]></description>
+				<LookAt>
+					<longitude>-98.77393807667326</longitude>
+					<latitude>20.09545667809182</latitude>
+					<altitude>0</altitude>
+					<heading>1.184080814832251</heading>
+					<tilt>23.07048653787125</tilt>
+					<range>1060.948785809297</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot56</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77581920328528,20.09661789493141,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1BAA7998B030A9B13EFC">
+				<name>​7</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+ Av. San Carlos Esq. Calle Santa Cruz]]></description>
+				<LookAt>
+					<longitude>-98.78283069663314</longitude>
+					<latitude>20.098548056195</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003472888736017415</heading>
+					<tilt>31.20284019345564</tilt>
+					<range>671.1819625843099</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78486974448438,20.09789439339903,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="012D9FA2EE30A9B13EFD">
+				<name>​6</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+ Av. San Carlos Esq. Blvd. G. Bonfil]]></description>
+				<LookAt>
+					<longitude>-98.78310938793832</longitude>
+					<latitude>20.09848735991107</latitude>
+					<altitude>0</altitude>
+					<heading>1.180686856818523</heading>
+					<tilt>22.44580479592143</tilt>
+					<range>1629.011076007006</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78366725828283,20.09777678955363,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1AB5616EB930A9B13EFD">
+				<name>8</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+ Av. San Carlos Esq. Calle San Diego]]></description>
+				<LookAt>
+					<longitude>-98.78594414821562</longitude>
+					<latitude>20.09809067856061</latitude>
+					<altitude>0</altitude>
+					<heading>-16.78277085368877</heading>
+					<tilt>30.00281805208838</tilt>
+					<range>627.7499079785762</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78607444486057,20.0980933473158,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0C1DC9F7C130A9B13EFE">
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+ Av. San Carlos Esq. Calle San Juan]]></description>
+				<LookAt>
+					<longitude>-98.78570542923228</longitude>
+					<latitude>20.09880177422878</latitude>
+					<altitude>0</altitude>
+					<heading>-16.78288679706929</heading>
+					<tilt>29.44786394789023</tilt>
+					<range>480.9394746288581</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot152</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78744566021606,20.09838079329312,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1B918A0EBF30A9B13EFE">
+				<name>10</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 16
+ Inicio y Cierre de Recorrido 
+Av. San Carlos Esq. Calle San Nicolas]]></description>
+				<LookAt>
+					<longitude>-98.78631750773236</longitude>
+					<latitude>20.0991090865998</latitude>
+					<altitude>0</altitude>
+					<heading>-0.004670524791438764</heading>
+					<tilt>31.20282252277917</tilt>
+					<range>667.6127071960819</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle89</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78918206255854,20.09864154015716,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="083790B65830A9B099A9">
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark id="09CBBECAC630A9B0AE4F">
+				<name>Recorrido RA-016</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Conexiones: T01, T02, T03, T04, T05 (Estación Tec de Monterrey)
+                     T02, T05 (Estación Zona Plateada)
+                     RA-014, RA-015, RA-017A
+Flota: 7 Vagonetas
+Recorrido Ida y Vuelta: 10.7 km
+Tiempo de Ciclo: 46.9 Min.
+Intervalo: 7.5 Min.]]></description>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.77025211660474,20.09636976723587,0 -98.7704789927096,20.09657473161955,0 -98.77098950869178,20.09689826673168,0 -98.77129691830753,20.09701030826343,0 -98.77169824084892,20.09709871253014,0 -98.77210758602385,20.0971425513621,0 -98.77268273511599,20.09711996501585,0 -98.77323622183685,20.09700648245374,0 -98.77365198664175,20.09682648724629,0 -98.77378930942459,20.09669032140572,0 -98.77388479403368,20.09657891905689,0 -98.77396781556101,20.09650383703155,0 -98.77408667492298,20.09652022650671,0 -98.77417622503155,20.09656169692041,0 -98.77432989118468,20.09655277606605,0 -98.77455776653429,20.09652620352582,0 -98.77480407532506,20.09648481957891,0 -98.77504641532111,20.09652071178525,0 -98.77551325646239,20.09660093017875,0 -98.77587471612115,20.09667370361078,0 -98.77606754182725,20.09671611956036,0 -98.77620513173432,20.09673966607078,0 -98.77628705786702,20.09669354799936,0 -98.77639038545696,20.0966665158589,0 -98.77648457257041,20.09669201196441,0 -98.77658320470127,20.09679730811312,0 -98.7767569920122,20.09687841054786,0 -98.77694508291988,20.09691306814159,0 -98.77713842438138,20.09694836248581,0 -98.77738121399378,20.09699834950138,0 -98.77768396657906,20.09706887233465,0 -98.77793262038966,20.09712449797481,0 -98.77819763227592,20.09717165068522,0 -98.77844011561147,20.09722413249187,0 -98.7787091118899,20.09726866308414,0 -98.77896721992293,20.09731852928431,0 -98.77915800200478,20.09736276598753,0 -98.77940541469276,20.09737683546893,0 -98.77965196687832,20.09734795092107,0 -98.77978075513161,20.0973646163515,0 -98.78010208937927,20.09741437112461,0 -98.78048179369728,20.09749190380002,0 -98.78078362737364,20.09754545078863,0 -98.78102833603727,20.09758505451937,0 -98.78126294814811,20.09766307154891,0 -98.78138216918543,20.09780708756114,0 -98.78148819248021,20.09793581489628,0 -98.78167508547232,20.09808809076707,0 -98.78180564479639,20.0981970472066,0 -98.78198251729322,20.09832151017632,0 -98.78214471734829,20.09843875468652,0 -98.78230764312336,20.09851790963998,0 -98.78240019889702,20.09854023932718,0 -98.78251381640864,20.09852408535062,0 -98.78261653310149,20.09845353097438,0 -98.78273066570542,20.0983554110569,0 -98.78277828818868,20.0982979558612,0 -98.7829144866504,20.09815239381298,0 -98.78302023380762,20.0980337299505,0 -98.78309947742788,20.09796282756059,0 -98.78317830702609,20.09788470032385,0 -98.78330230680308,20.09771319631162,0 -98.7833600977692,20.09765025533052,0 -98.78343421321433,20.097527347035,0 -98.7835322584056,20.09740514046812,0 -98.78362629680846,20.09724569237092,0 -98.78368556775455,20.09712194531719,0 -98.78373907492625,20.09701148923595,0 -98.78381366322111,20.0968836804954,0 -98.78388636524492,20.09674234309938,0 -98.78395533060457,20.09658092670744,0 -98.78407741493156,20.09628652581846,0 -98.78417839182423,20.09604671604129,0 -98.78428047915439,20.09578882786419,0 -98.78443560600334,20.0953646686634,0 -98.78468131230339,20.09477234571626,0 -98.78486553404277,20.09434706109701,0 -98.78503839311028,20.09400242522352,0 -98.78506462778167,20.09398408908871,0 -98.78510296012263,20.09398804882095,0 -98.78511778489022,20.09401836768076,0 -98.78512074380963,20.09405559866383,0 -98.7851115662653,20.09409202092659,0 -98.78505861974054,20.0942013194864,0 -98.78499257792596,20.09438099368228,0 -98.78494043625552,20.094496914415,0 -98.78486429851478,20.09467201423113,0 -98.78479509837604,20.09482702805051,0 -98.78468141258588,20.09510984339003,0 -98.78462678631145,20.09526847658204,0 -98.78457721587073,20.09541929427442,0 -98.78450122581225,20.0955934193589,0 -98.78443238303629,20.09575723278165,0 -98.78433922997363,20.0960111425003,0 -98.78422543847594,20.09624499501116,0 -98.78409923647212,20.09654464409381,0 -98.78395505851228,20.09689226230877,0 -98.78388310506332,20.09706096118478,0 -98.78377819812761,20.09730471990558,0 -98.78368869214391,20.09746224586635,0 -98.78366380625397,20.09753269227572,0 -98.78367487977184,20.09759040076481,0 -98.78371200116369,20.09762240238925,0 -98.78378810213164,20.0976249618384,0 -98.78389981327122,20.09760313048281,0 -98.78401195337923,20.09757972206349,0 -98.78417234229765,20.09757280721994,0 -98.78437621725899,20.09760280994379,0 -98.78473338149355,20.09766108492045,0 -98.78507330025222,20.09773269201534,0 -98.78552238090171,20.09781764214539,0 -98.78598223056453,20.09791777825504,0 -98.78652543756014,20.09802563725077,0 -98.78694845454375,20.09811027078287,0 -98.78727220472169,20.0981749260712,0 -98.78763752568905,20.09824560966245,0 -98.78805100336309,20.09832676295628,0 -98.78845609603867,20.09840742401467,0 -98.78909392827545,20.09854523864575,0 -98.78910732908405,20.09862920770464,0 -98.78909227754106,20.09866967925959,0 -98.78902974134061,20.09869905047604,0 -98.78827276744575,20.09855024687642,0 -98.78787008036028,20.09846226926207,0 -98.78734602439701,20.09834301748597,0 -98.78694557142892,20.09826919426246,0 -98.78677963659003,20.09823685076089,0 -98.7861240569972,20.09810711561722,0 -98.78583565716407,20.09804125947215,0 -98.78544076323001,20.0979557336384,0 -98.78502096941844,20.09787338087894,0 -98.78450900483551,20.09779219245194,0 -98.78421822758467,20.09776628078367,0 -98.78409448752004,20.09776032155146,0 -98.78390266326382,20.09779668970766,0 -98.7838008610579,20.09783211261858,0 -98.78350802208978,20.09803130480367,0 -98.78348436353589,20.09811856929309,0 -98.78344819699662,20.09819950936041,0 -98.78337116806371,20.09826088726916,0 -98.78327997622227,20.09829000752681,0 -98.78316311906252,20.09826089080979,0 -98.78304797574852,20.09832172054683,0 -98.78282041367864,20.09875023663158,0 -98.78277703764398,20.09892136275858,0 -98.78267690019482,20.09902908748229,0 -98.78254205883042,20.09908054824352,0 -98.7825389576554,20.09908236272048,0 -98.78239020719258,20.09906434101497,0 -98.78234417884492,20.0990135665536,0 -98.78228147301378,20.09893890453576,0 -98.7822610364011,20.09879875952897,0 -98.7822160627565,20.09870493260127,0 -98.7813772653405,20.09810314221733,0 -98.78120339080503,20.09802619935771,0 -98.78050116754994,20.09786136955361,0 -98.78001642780917,20.09776295285701,0 -98.77951059110021,20.09763575389754,0 -98.77937247461649,20.09755696459687,0 -98.77922898758266,20.09750771839385,0 -98.77899545901599,20.09746810735984,0 -98.77867382056704,20.09740364765975,0 -98.77867401950328,20.09740158848478,0 -98.77826823333972,20.09732626814889,0 -98.77806388954649,20.09729757340238,0 -98.77767844504122,20.09722096599136,0 -98.77717802495422,20.09712048121621,0 -98.77657484967368,20.09700653354445,0 -98.77649155093377,20.09707898825137,0 -98.77636900093513,20.09710065529441,0 -98.77625476977872,20.09705522778441,0 -98.77624844399953,20.09705503834507,0 -98.77613728779143,20.09690989228717,0 -98.77578338406462,20.09681369206759,0 -98.77529902580186,20.09674740466407,0 -98.7748895712765,20.09668780571046,0 -98.77463757196647,20.09668247849555,0 -98.77450618506352,20.09670186434934,0 -98.77431851230865,20.09676557692948,0 -98.77424990694794,20.09678348915121,0 -98.7739034854033,20.09694807588742,0 -98.77315867357784,20.09739808912758,0 -98.77260473364879,20.09765907204915,0 -98.77237628387277,20.09774434810717,0 -98.77203325174905,20.09782229221778,0 -98.77179853579374,20.09784177454286,0 -98.77124198842309,20.09783645629369,0 -98.77075998270345,20.09772518697263,0 -98.77060120264986,20.09768580210269,0 -98.77010910970591,20.09741721640153,0 -98.7699088794747,20.09725348463034,0 -98.76979420868905,20.09702771035869,0 -98.76971768834866,20.09672593351799,0 -98.7696925718259,20.09655705312941,0 -98.76976665574165,20.09640432976723,0 -98.76991464630687,20.09629294482865,0 -98.77025211660474,20.09636976723587,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

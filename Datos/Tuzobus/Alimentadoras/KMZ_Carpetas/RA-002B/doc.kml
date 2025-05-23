@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA-002B.kmz</name>
+	<StyleMap id="msn_placemark_circle3111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle318</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight2020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle611">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle019</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1401</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot1210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot271</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot3101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot250">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot260">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1410</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot281">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1510</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot74</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot2900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot114</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot820</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot3001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot1401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot3002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot412</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot312</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight121">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight2020">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1401">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1410">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2020">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2101">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2400">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot271">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot312">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot74">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot820">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2.6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle019">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle318">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1001">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot114">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1401">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot1510">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot2100">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot2600">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot3101">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot320">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot412">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2.6</width>
+		</LineStyle>
+	</Style>
+	<Folder id="4C44595D7430A9B076B7">
+		<name>RA-002B</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Tellez - Terminal Tuzobús.</description>
+				<LookAt>
+					<longitude>-98.8038695215114</longitude>
+					<latitude>20.01220208305288</latitude>
+					<altitude>0</altitude>
+					<heading>0.07902138078397318</heading>
+					<tilt>30.00236746040842</tilt>
+					<range>527.5388615266894</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80411351618893,20.01249310176119,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Tellez - Terminal Tuzobús.</description>
+				<LookAt>
+					<longitude>-98.80263199525307</longitude>
+					<latitude>20.01256548778747</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17216084978924</heading>
+					<tilt>30.00857825204842</tilt>
+					<range>1910.556656063461</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80367967819764,20.01205236946591,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Muciño</description>
+				<LookAt>
+					<longitude>-98.80419080899907</longitude>
+					<latitude>20.01324846913957</latitude>
+					<altitude>0</altitude>
+					<heading>0.07891144674086993</heading>
+					<tilt>30.00679045247594</tilt>
+					<range>1512.637613353885</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80812606742747,20.01832910846946,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Muciño</description>
+				<LookAt>
+					<longitude>-98.80612460895658</longitude>
+					<latitude>20.01747058654819</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17738784336478</heading>
+					<tilt>25.83594187413121</tilt>
+					<range>1281.138510766339</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80808235619635,20.01791630241622,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Fracc. Real de Joyas</description>
+				<LookAt>
+					<longitude>-98.80612460895658</longitude>
+					<latitude>20.01747058654819</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17738784336478</heading>
+					<tilt>25.83594187413121</tilt>
+					<range>1281.138510766339</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80472269783793,20.01806360522237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Tellez - Real Navarra.</description>
+				<LookAt>
+					<longitude>-98.7992214880494</longitude>
+					<latitude>20.0083133190705</latitude>
+					<altitude>0</altitude>
+					<heading>-7.138164841421256</heading>
+					<tilt>22.58843710938786</tilt>
+					<range>1753.616646410639</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80052256697184,20.00460294670213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Tellez - Real Navarra.</description>
+				<LookAt>
+					<longitude>-98.79601868021749</longitude>
+					<latitude>20.00555566527528</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17297428782152</heading>
+					<tilt>26.29025648075236</tilt>
+					<range>2225.174870744759</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80050140000154,20.0050204945253,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Tellez.</description>
+				<LookAt>
+					<longitude>-98.78980922391683</longitude>
+					<latitude>19.98736169656039</latitude>
+					<altitude>0</altitude>
+					<heading>0.08283125209096405</heading>
+					<tilt>29.80495662920572</tilt>
+					<range>1296.123058384632</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot260</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79292991604753,19.99119196394618,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Tellez.</description>
+				<LookAt>
+					<longitude>-98.79036111025657</longitude>
+					<latitude>19.99156891839741</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17077988988435</heading>
+					<tilt>26.62436725450507</tilt>
+					<range>1108.384946510119</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79244342396611,19.99105901525942,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez - COBAEH</description>
+				<LookAt>
+					<longitude>-98.78980922391683</longitude>
+					<latitude>19.98736169656039</latitude>
+					<altitude>0</altitude>
+					<heading>0.08283125209096405</heading>
+					<tilt>29.80495662920572</tilt>
+					<range>1296.123058384632</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot281</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79059265102364,19.98737575733571,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle Ferrocarril Hidalgo.</description>
+				<LookAt>
+					<longitude>-98.78888519652938</longitude>
+					<latitude>19.98397970538206</latitude>
+					<altitude>0</altitude>
+					<heading>0.08410019730117743</heading>
+					<tilt>30.00425334318614</tilt>
+					<range>947.5209156826822</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2900</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78901034575668,19.98463640274129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle Solidaridad.</description>
+				<LookAt>
+					<longitude>-98.78794590726193</longitude>
+					<latitude>19.98273762724248</latitude>
+					<altitude>0</altitude>
+					<heading>0.08442119806335503</heading>
+					<tilt>30.00418655810644</tilt>
+					<range>932.648346028588</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78763941213742,19.98235687508328,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle Solidaridad.</description>
+				<LookAt>
+					<longitude>-98.78653432635032</longitude>
+					<latitude>19.98344215253065</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16455346109154</heading>
+					<tilt>34.46396756909668</tilt>
+					<range>812.3676752009295</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.787358198109,19.98233173513757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle Ferrocarril Hidalgo.</description>
+				<LookAt>
+					<longitude>-98.78627501234908</longitude>
+					<latitude>19.98437321540438</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16446486474353</heading>
+					<tilt>34.46648360716593</tilt>
+					<range>1307.563244604932</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78886695422148,19.98494849313747,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez - COBAEH</description>
+				<LookAt>
+					<longitude>-98.78894525450021</longitude>
+					<latitude>19.9883097838723</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17029592970868</heading>
+					<tilt>26.62317296864546</tilt>
+					<range>811.5728785901439</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79019513340653,19.98717415437798,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle Seguridad Socila</description>
+				<LookAt>
+					<longitude>-98.78583181032442</longitude>
+					<latitude>19.98043906773608</latitude>
+					<altitude>0</altitude>
+					<heading>0.04454816890119177</heading>
+					<tilt>23.23425378878319</tilt>
+					<range>670.1469159806993</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78641536923949,19.98030396906036,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle Seguridad Socila</description>
+				<LookAt>
+					<longitude>-98.78508027744701</longitude>
+					<latitude>19.98045991364268</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16405658585159</heading>
+					<tilt>34.46332967175281</tilt>
+					<range>686.8305065225984</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78620370807489,19.98026714247567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle justicia social</description>
+				<LookAt>
+					<longitude>-98.78555325778738</longitude>
+					<latitude>19.97772481579674</latitude>
+					<altitude>0</altitude>
+					<heading>0.04464341660602515</heading>
+					<tilt>23.23561130446452</tilt>
+					<range>1053.401351028305</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78530511637766,19.97890016072671,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle progreso  social</description>
+				<LookAt>
+					<longitude>-98.78432547265807</longitude>
+					<latitude>19.97685168945174</latitude>
+					<altitude>0</altitude>
+					<heading>0.04506290206240542</heading>
+					<tilt>23.23560185141014</tilt>
+					<range>1050.732971372147</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot1210</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78428734494989,19.97783258549139,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle progreso  social</description>
+				<LookAt>
+					<longitude>-98.7821733437071</longitude>
+					<latitude>19.9781297967982</latitude>
+					<altitude>0</altitude>
+					<heading>-24.161400670572</heading>
+					<tilt>38.02329382518717</tilt>
+					<range>1277.904563469468</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78405296658136,19.9777889168151,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle justicia social</description>
+				<LookAt>
+					<longitude>-98.7821733437071</longitude>
+					<latitude>19.9781297967982</latitude>
+					<altitude>0</altitude>
+					<heading>-24.161400670572</heading>
+					<tilt>38.02329382518717</tilt>
+					<range>1277.904563469468</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78493186317527,19.9788012882764,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. Téllez Esquina Calle Fraternidad</description>
+				<LookAt>
+					<longitude>-98.78381192779126</longitude>
+					<latitude>19.97723032557607</latitude>
+					<altitude>0</altitude>
+					<heading>26.46059385574922</heading>
+					<tilt>29.79607251011553</tilt>
+					<range>1731.605147855143</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle3111</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78246108327652,19.97580957008567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Calle Jesus Lugo.</description>
+				<LookAt>
+					<longitude>-98.79922330379958</longitude>
+					<latitude>20.01960802201896</latitude>
+					<altitude>0</altitude>
+					<heading>0.08059596197952099</heading>
+					<tilt>30.00481348200741</tilt>
+					<range>1072.061554219592</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79951613519805,20.01815538059326,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Calle Jesus Lugo.</description>
+				<LookAt>
+					<longitude>-98.80019825258019</longitude>
+					<latitude>20.01805045513735</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17535914844601</heading>
+					<tilt>25.83594737676167</tilt>
+					<range>1282.544620386491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79977328773087,20.01796495836108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Villa Fontana</description>
+				<LookAt>
+					<longitude>-98.78228629142171</longitude>
+					<latitude>20.02001739579584</latitude>
+					<altitude>0</altitude>
+					<heading>1.172563398885918</heading>
+					<tilt>24.55037676997984</tilt>
+					<range>722.1943700685675</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle611</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77918121518718,20.02019131987502,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - FFCC Hidalgo.</description>
+				<LookAt>
+					<longitude>-98.78151441443653</longitude>
+					<latitude>20.01835726640673</latitude>
+					<altitude>0</altitude>
+					<heading>0.08665783082551391</heading>
+					<tilt>30.00329198316271</tilt>
+					<range>733.604970826206</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78369867753128,20.01802915124242,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - FFCC Hidalgo.</description>
+				<LookAt>
+					<longitude>-98.78148677430138</longitude>
+					<latitude>20.01789063461999</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16586829542855</heading>
+					<tilt>30.00452799623523</tilt>
+					<range>1008.497298707036</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78349685741965,20.01792093465442,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. San Guilleromo.</description>
+				<LookAt>
+					<longitude>-98.7847757171985</longitude>
+					<latitude>20.01756828857168</latitude>
+					<altitude>0</altitude>
+					<heading>0.08554143942087837</heading>
+					<tilt>30.00330102837937</tilt>
+					<range>735.6192775898209</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot250</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78515491631235,20.01803835527252,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Villa Fontana esquina Av. san Javier</description>
+				<LookAt>
+					<longitude>-98.78151441443653</longitude>
+					<latitude>20.01835726640673</latitude>
+					<altitude>0</altitude>
+					<heading>0.08665783082551391</heading>
+					<tilt>30.00329198316271</tilt>
+					<range>733.604970826206</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot020</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78354989286997,20.02017672979989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Villa Fontana esquina Av. san Javier</description>
+				<LookAt>
+					<longitude>-98.78214770027441</longitude>
+					<latitude>20.01828335990686</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16609455332318</heading>
+					<tilt>30.00453679331757</tilt>
+					<range>1010.456326345311</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78317127784004,20.02002389387572,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. Santa Elena.</description>
+				<LookAt>
+					<longitude>-98.78615699992525</longitude>
+					<latitude>20.01761133017767</latitude>
+					<altitude>0</altitude>
+					<heading>0.08506861306546529</heading>
+					<tilt>30.00330503123364</tilt>
+					<range>736.5107293659925</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot250</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78748126089776,20.0180579461143,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. Santa Elena.</description>
+				<LookAt>
+					<longitude>-98.78631576563772</longitude>
+					<latitude>20.01672691838524</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16752138168292</heading>
+					<tilt>30.00453477913361</tilt>
+					<range>1010.007755798843</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78734995224471,20.01783675748705,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. San Guilleromo.</description>
+				<LookAt>
+					<longitude>-98.78631576563772</longitude>
+					<latitude>20.01672691838524</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16752138168292</heading>
+					<tilt>30.00453477913361</tilt>
+					<range>1010.007755798843</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78500353951037,20.01785790516103,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. San Marcos.</description>
+				<LookAt>
+					<longitude>-98.78934472227115</longitude>
+					<latitude>20.01717259162612</latitude>
+					<altitude>0</altitude>
+					<heading>1.175164312762622</heading>
+					<tilt>26.0321728961728</tilt>
+					<range>1246.130335542975</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78982110195196,20.01804160000337,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. San Marcos.</description>
+				<LookAt>
+					<longitude>-98.78631576563772</longitude>
+					<latitude>20.01672691838524</latitude>
+					<altitude>0</altitude>
+					<heading>-24.16752138168292</heading>
+					<tilt>30.00453477913361</tilt>
+					<range>1010.007755798843</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78989132953389,20.01785137569472,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. Santa Victoria.</description>
+				<LookAt>
+					<longitude>-98.79429771285319</longitude>
+					<latitude>20.01661789258741</latitude>
+					<altitude>0</altitude>
+					<heading>1.173252961477706</heading>
+					<tilt>24.51378674245918</tilt>
+					<range>1149.348187152801</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79182601289746,20.01806842854952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. San Clemente.</description>
+				<LookAt>
+					<longitude>-98.79429771285319</longitude>
+					<latitude>20.01661789258741</latitude>
+					<altitude>0</altitude>
+					<heading>1.173252961477706</heading>
+					<tilt>24.51378674245918</tilt>
+					<range>1149.348187152801</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79372756681707,20.01811243379036,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. Santa Rebeca.</description>
+				<LookAt>
+					<longitude>-98.79429771285319</longitude>
+					<latitude>20.01661789258741</latitude>
+					<altitude>0</altitude>
+					<heading>1.173252961477706</heading>
+					<tilt>24.51378674245918</tilt>
+					<range>1149.348187152801</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79501455841348,20.01813060615051,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. Santa Rebeca.</description>
+				<LookAt>
+					<longitude>-98.79412921386501</longitude>
+					<latitude>20.01773419631869</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17019626429742</heading>
+					<tilt>30.00454074850086</tilt>
+					<range>1011.337095418322</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79439636815067,20.0179395548496,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Av. Santa Victoria.</description>
+				<LookAt>
+					<longitude>-98.79420041233188</longitude>
+					<latitude>20.01763993828026</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17022046807507</heading>
+					<tilt>30.00454021050431</tilt>
+					<range>1011.217288633318</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot122</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79203167414033,20.01787437373272,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2B
+Blvd. San Alfonso - Fracc. Real de Joyas</description>
+				<LookAt>
+					<longitude>-98.80118561656617</longitude>
+					<latitude>20.0177241051974</latitude>
+					<altitude>0</altitude>
+					<heading>1.170896621288555</heading>
+					<tilt>24.51351505246507</tilt>
+					<range>1149.827388592535</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot3002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80530509006088,20.01823379151445,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Regreso</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.77917980909393,20.02027546563009,0 -98.78057307652145,20.02028721759464,0 -98.7819786662119,20.02025297780175,0 -98.78349320673546,20.02020606839377,0 -98.78354683452925,20.019299591549,0 -98.78365394610219,20.0180540640655,0 -98.78391431261095,20.01805737258794,0 -98.78419638097499,20.01806101850416,0 -98.78842030841348,20.01808128459347,0 -98.79009680125064,20.01809591326109,0 -98.79196266614488,20.01809001197489,0 -98.79370982559851,20.01814434230402,0 -98.7950897920465,20.01818833432567,0 -98.79678521530033,20.01809098654861,0 -98.79788575744278,20.01812266938325,0 -98.7998259439803,20.01817382905497,0 -98.802243468116,20.01822008504839,0 -98.80316353762825,20.01823766134178,0 -98.80414267995332,20.01826536201764,0 -98.80485500110365,20.01828127940382,0 -98.80533066795516,20.01828724543265,0 -98.80648300676862,20.01832163529923,0 -98.80801750914043,20.01836890743253,0 -98.80831791307473,20.01837720824036,0 -98.80842087413811,20.0183263451362,0 -98.80842986435658,20.01819533923839,0 -98.80667445217021,20.01519538744395,0 -98.80553038667745,20.013228911696,0 -98.80511265838729,20.01252365080976,0 -98.80460328964139,20.0117374194127,0 -98.80441453235005,20.01183704781164,0 -98.80402209190173,20.0120722536904,0 -98.80395488946694,20.01227273239924,0 -98.80403113345231,20.01243476557443,0 -98.80421634766437,20.01260075043498,0 -98.80506944899878,20.01260053211588,0 -98.80453984836949,20.01161739767702,0 -98.79557558406549,19.99572472156651,0 -98.79260703638722,19.99090307932318,0 -98.78985311733257,19.98622215353509,0 -98.78895530178208,19.98464816008962,0 -98.7862547759614,19.98009558055399,0 -98.7853329909958,19.97898522356224,0 -98.78247451608338,19.9758737751555,0 -98.78239400462657,19.97594345187598,0 -98.78255436553715,19.97612118378668,0 -98.78371661813866,19.97742532252849,0 -98.78450720927692,19.97831590365061,0 -98.78568564095373,19.9795685263944,0 -98.78629663867262,19.98035218364819,0 -98.78696683851614,19.9815808299266,0 -98.7873047658173,19.98214958329796,0 -98.78739908662358,19.98234505892431,0 -98.78753505362475,19.98256774031136,0 -98.78782495394015,19.98304920079083,0 -98.78863181019727,19.9844439166593,0 -98.79279777024695,19.9915934533885,0 -98.79981555509141,20.00368354218607,0 -98.80435914646293,20.01157897088697,0 -98.80434202104578,20.01167842353046,0 -98.80414698268129,20.01178659758809,0 -98.80394837079601,20.01190824463298,0 -98.80383657728214,20.01203081912393,0 -98.80375491302469,20.01217390083647,0 -98.80382641943547,20.01233328022888,0 -98.80396204376689,20.01257997374091,0 -98.80414953965047,20.01269220237012,0 -98.80467236616254,20.0127162962725,0 -98.80507865621441,20.01274566631739,0 -98.80536580692123,20.01322002010892,0 -98.80554967347051,20.01348937375639,0 -98.80582785137734,20.01399542706027,0 -98.80643426991884,20.01504281298036,0 -98.80701862147356,20.01608578053448,0 -98.80784405109239,20.01748041974479,0 -98.80813357990897,20.01797351124864,0 -98.80827201062965,20.01822721651584,0 -98.8082705185092,20.01827695618931,0 -98.80822518295537,20.01827911847597,0 -98.80537471950377,20.01819900051121,0 -98.80172948572695,20.0181378706972,0 -98.7990957735191,20.01806088580685,0 -98.79579485975783,20.01802783758548,0 -98.7954770127667,20.01811611567811,0 -98.79331748161319,20.01806464740031,0 -98.79146767064358,20.01797790576896,0 -98.78955205966555,20.01797601290588,0 -98.78732115700774,20.01797457334879,0 -98.78360201982967,20.01794737160268,0 -98.78341292243373,20.02014470324547,0 -98.78094637291227,20.02022491177158,0 -98.77929101980402,20.02022533212215,0 -98.77916721651401,20.02022650675802,0 -98.77913571656956,20.02023768844706,0 -98.77913958634203,20.02026750277068,0 -98.77917980909393,20.02027546563009,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

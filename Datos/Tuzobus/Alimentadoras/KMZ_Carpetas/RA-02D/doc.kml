@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA-02D.kmz</name>
+	<StyleMap id="msn_placemark_circle030">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle317</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle513">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle1113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot030">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot411</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot511</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot2300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot27000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot1310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot181</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot0110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight113">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight900">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot0110">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot1310">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot511">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle1113">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle317">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot181">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot27000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot411">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Folder id="35458B6C6330A9B076B7">
+		<name>RA-02D</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Tellez - Terminal Tuzobús.</description>
+				<LookAt>
+					<longitude>-98.80250888671095</longitude>
+					<latitude>20.01196530165016</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17754280123198</heading>
+					<tilt>24.96002276159852</tilt>
+					<range>606.4173075822881</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80401037731588,20.0122035309841,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Tellez - Blvd. paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.80029212300215</longitude>
+					<latitude>20.01109755003889</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17630730546567</heading>
+					<tilt>25.3406502367678</tilt>
+					<range>918.1659338264882</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80331669742554,20.0100997125111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.79942172550255</longitude>
+					<latitude>20.010141212432</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17600945606604</heading>
+					<tilt>25.34065312536867</tilt>
+					<range>918.9175268586697</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79974097583968,20.00987933073518,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.79806061992196</longitude>
+					<latitude>20.01069194477154</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17538383661908</heading>
+					<tilt>26.58148211685858</tilt>
+					<range>988.4380652212936</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot511</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79978209567365,20.01036862977061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.79791860613837</longitude>
+					<latitude>20.00923530310656</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17549512622428</heading>
+					<tilt>25.3406576783899</tilt>
+					<range>920.102151883576</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7970829818545,20.00997435361381,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.79435500260831</longitude>
+					<latitude>20.00999859029978</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17427563397241</heading>
+					<tilt>25.34067412245669</tilt>
+					<range>924.380706604068</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79426555110931,20.01001122075068,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.79388395882538</longitude>
+					<latitude>20.00982765601731</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17395470072344</heading>
+					<tilt>26.58149942182462</tilt>
+					<range>992.744689593289</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot511</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79444298331354,20.0103635059684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.797887060741</longitude>
+					<latitude>20.00991131234289</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17532444207777</heading>
+					<tilt>26.58148211688339</tilt>
+					<range>988.4380914795386</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot511</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79711354290338,20.0103388756562,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.79362374054909</longitude>
+					<latitude>20.01029282135325</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17402540976197</heading>
+					<tilt>25.34067462734304</tilt>
+					<range>924.51206435289</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79224971849266,20.00995186894661,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78495691422114</longitude>
+					<latitude>20.00764938550423</latitude>
+					<altitude>0</altitude>
+					<heading>-24.1710601050576</heading>
+					<tilt>25.34371154893669</tilt>
+					<range>1714.791523026372</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78796532002507,20.00584893598629,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78771192692224</longitude>
+					<latitude>20.00717164054461</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17184974234343</heading>
+					<tilt>26.7502877683662</tilt>
+					<range>893.7327747697481</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot030</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78906506100921,20.00934241096478,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78841468609006</longitude>
+					<latitude>20.00859687465842</latitude>
+					<altitude>0</altitude>
+					<heading>-24.1720901830294</heading>
+					<tilt>26.75046147755321</tilt>
+					<range>936.7063677550794</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot511</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78889131551227,20.00963449185074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78914608186</longitude>
+					<latitude>20.00540451612864</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02329119325830022</heading>
+					<tilt>25.39528307145528</tilt>
+					<range>3229.396105422018</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78222012361995,20.00948590816876,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78914608186</longitude>
+					<latitude>20.00540451612864</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02329119325830022</heading>
+					<tilt>25.39528307145528</tilt>
+					<range>3229.396105422018</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78209106451651,20.00631427983831,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78769031082068</longitude>
+					<latitude>20.00458310947624</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02279303447632817</heading>
+					<tilt>25.39528260993955</tilt>
+					<range>3229.276404016758</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77810459238711,20.00611897608088,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78769031082068</longitude>
+					<latitude>20.00458310947624</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02279303447632817</heading>
+					<tilt>25.39528260993955</tilt>
+					<range>3229.276404016758</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77448372803102,20.00421355428297,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78914608186</longitude>
+					<latitude>20.00540451612864</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02329119325830022</heading>
+					<tilt>25.39528307145528</tilt>
+					<range>3229.396105422018</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77961419951984,20.00929986303549,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78769031082068</longitude>
+					<latitude>20.00458310947624</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02279303447632817</heading>
+					<tilt>25.39528260993955</tilt>
+					<range>3229.276404016758</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77904240468564,20.01134159447354,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78769031082068</longitude>
+					<latitude>20.00458310947624</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02279303447632817</heading>
+					<tilt>25.39528260993955</tilt>
+					<range>3229.276404016758</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77495021091829,20.01156129445647,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos - Fracc. Amores de Don Juan</description>
+				<LookAt>
+					<longitude>-98.78914608186</longitude>
+					<latitude>20.00540451612864</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02329119325830022</heading>
+					<tilt>25.39528307145528</tilt>
+					<range>3229.396105422018</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79021876760734,20.00848617198984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos - Fracc.Esmeralda</description>
+				<LookAt>
+					<longitude>-98.79413287014393</longitude>
+					<latitude>20.00888046573301</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0249971633586613</heading>
+					<tilt>25.38873657464686</tilt>
+					<range>1528.719496958242</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2300</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79093201987251,20.008657796636,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description>&quot;Dirección de Operación SITMAH&quot;
+
+Parada de la Ruta Alimentadora 2D
+Blvd. Paseo de los Viñedos</description>
+				<LookAt>
+					<longitude>-98.78771192692224</longitude>
+					<latitude>20.00717164054461</latitude>
+					<altitude>0</altitude>
+					<heading>-24.17184974234343</heading>
+					<tilt>26.7502877683662</tilt>
+					<range>893.7327747697481</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle513</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78626838377311,20.00943235074357,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>IDA</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.80386786032956,20.01146564756612,0 -98.80406486662555,20.01153263436547,0 -98.80418300782641,20.01155019503176,0 -98.80429233152604,20.01153264425269,0 -98.80434234985731,20.0115063775262,0 -98.80434837135623,20.01141648384138,0 -98.80429773508128,20.01133892146889,0 -98.80400064854744,20.01085758750455,0 -98.80378215336951,20.01044290410801,0 -98.80367974701682,20.01024674565273,0 -98.80358891949409,20.01017155384701,0 -98.80345779565002,20.01013421021547,0 -98.80331821451328,20.01013917458634,0 -98.80271055571426,20.01014661285087,0 -98.80238480849528,20.01016153892236,0 -98.80204164615408,20.01019398437047,0 -98.80153682059644,20.01019896896463,0 -98.800927197497,20.0101964398725,0 -98.79965904346535,20.01017686822745,0 -98.79867458414557,20.01016408499935,0 -98.79739982606468,20.01018182476705,0 -98.79636768832762,20.01018175436263,0 -98.79520988872576,20.01019186744158,0 -98.79469210860324,20.01016633675313,0 -98.79399829651891,20.01016627903357,0 -98.79326639450912,20.01016621588997,0 -98.79285138448375,20.01018146088514,0 -98.79262562291427,20.0101788916348,0 -98.7923917594308,20.01013103895075,0 -98.79227433366506,20.01006887980741,0 -98.79214733695134,20.01002768958007,0 -98.79204286068567,20.00999181405312,0 -98.79181844256851,20.00979474826022,0 -98.79121206283556,20.00911658683492,0 -98.79044544273344,20.0082674405375,0 -98.78957749979395,20.0073040360648,0 -98.78872164971442,20.0063602057515,0 -98.78857773993587,20.00619279636758,0 -98.78852852099439,20.00617302863802,0 -98.78847783655694,20.00617795885149,0 -98.78845842025241,20.00622499750585,0 -98.78848740795935,20.0062723118576,0 -98.78880041193369,20.00662430146769,0 -98.78954437199863,20.00743974903182,0 -98.79037350542814,20.00836435741915,0 -98.7906329539302,20.00865300724885,0 -98.79144059678805,20.00954148857188,0 -98.79161129726363,20.00974740355733,0 -98.79175714019226,20.00989836621373,0 -98.79188629687457,20.0100188648176,0 -98.79192416367175,20.01007419314739,0 -98.7919113505675,20.01013545717417,0 -98.7917861563453,20.01018589143193,0 -98.79159198981078,20.01019149390051,0 -98.79141304518666,20.01015218755109,0 -98.79117314791137,20.01004087677553,0 -98.79096644911171,20.00987655630888,0 -98.79069129375539,20.00967811974277,0 -98.790459602075,20.00957012242049,0 -98.79018804305066,20.00951791944433,0 -98.78970852812074,20.00948671771052,0 -98.78918185530087,20.00948147976317,0 -98.78873202846505,20.00947884081958,0 -98.7875517504369,20.00946059126304,0 -98.78636636067327,20.00942950092821,0 -98.78567723405747,20.00941141404148,0 -98.78542426805532,20.00937039163824,0 -98.78527599520473,20.00932704031388,0 -98.78500026063158,20.00924856246241,0 -98.78479188864199,20.00920833675998,0 -98.78451774623986,20.00919327548136,0 -98.78405017848993,20.00920071950384,0 -98.78317648047917,20.00923167163614,0 -98.78257165055402,20.00924070785896,0 -98.78237633653424,20.00922850727387,0 -98.78215097175236,20.00917115762899,0 -98.781994920709,20.0090998802132,0 -98.78183387334232,20.00899530158627,0 -98.78178462759982,20.00889902557455,0 -98.7817409193285,20.00871335103048,0 -98.78174343277817,20.00804761933723,0 -98.78171935882209,20.00750672605561,0 -98.78177859499911,20.00715102798581,0 -98.78181269934191,20.00686301094324,0 -98.78180817616919,20.00674176927768,0 -98.78177957340866,20.00663638299283,0 -98.78172122768331,20.00655630153228,0 -98.78163833368797,20.00652299693408,0 -98.78149211931419,20.00651055656178,0 -98.78096945940982,20.00652291172604,0 -98.7800401506659,20.00653940476088,0 -98.77904858258901,20.00655594614254,0 -98.77804544908365,20.00657883603734,0 -98.77749668040244,20.00658602148628,0 -98.77726123138811,20.00658598487128,0 -98.77710079271677,20.00658595991912,0 -98.77694774797558,20.00656953586178,0 -98.77682026711805,20.00655524457549,0 -98.77669760161629,20.00652287793186,0 -98.77646892674676,20.00652284230594,0 -98.77606075903134,20.00653284677366,0 -98.77547390278023,20.00653880412259,0 -98.77498528840756,20.00655211943734,0 -98.77467139371157,20.00655206973279,0 -98.77445050952265,20.00656337727245,0 -98.77425262694645,20.00657309954923,0 -98.77412464017392,20.00657307915345,0 -98.77401592815848,20.00656818126416,0 -98.77397543495186,20.00653743333728,0 -98.77395889353124,20.00647522883186,0 -98.77396764797521,20.00637263722918,0 -98.77403967514149,20.00586712652403,0 -98.77408453135077,20.00555303771321,0 -98.77417695761807,20.00483012382074,0 -98.77424328600955,20.00428004543325,0 -98.77424452115673,20.00419855836822,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>REGRESO</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin30</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.77418638141863,20.00415656926534,0 -98.77416938202209,20.00422278006566,0 -98.77408185474982,20.00487604357996,0 -98.77397449734768,20.00574157472607,0 -98.77387992970284,20.00634376568387,0 -98.77387525647478,20.00654137998759,0 -98.7738985963545,20.0065809298473,0 -98.77394080651236,20.00662803886829,0 -98.77400672675444,20.0066423036744,0 -98.77426168008652,20.00664710906922,0 -98.77506033720888,20.00662111442132,0 -98.77638691302798,20.00660479405335,0 -98.77657545229302,20.00659541532091,0 -98.77669381977302,20.00659543352651,0 -98.77675602154159,20.00661664600193,0 -98.77687765053193,20.00664990228506,0 -98.77697867476377,20.00665469166378,0 -98.77716392277959,20.00666189298657,0 -98.77774167093885,20.00664936785104,0 -98.77861939596191,20.00663547388013,0 -98.77983483501356,20.00661694905811,0 -98.78079054719629,20.00658436410353,0 -98.78143762424939,20.00658444600327,0 -98.78157189236892,20.00659380810923,0 -98.78165891433518,20.00662652853745,0 -98.78169869073439,20.00667793453614,0 -98.78172105790198,20.00675737539104,0 -98.78172103765563,20.00690223311654,0 -98.78168369570396,20.00722465375547,0 -98.78163890418929,20.0074747969447,0 -98.78165377580267,20.00781124250326,0 -98.78166615743253,20.00817806113501,0 -98.7816561082208,20.00891816160012,0 -98.78165608319193,20.00909572917065,0 -98.78164612241271,20.00920086658152,0 -98.7816336774374,20.00928964877746,0 -98.78158891424478,20.00933169869084,0 -98.78148696488729,20.00934804093155,0 -98.78128555753695,20.00934801577502,0 -98.78101950373429,20.00933162734868,0 -98.78076340179067,20.0092778572883,0 -98.78042275216066,20.0092708040664,0 -98.78021885886909,20.0092707774187,0 -98.78011193772595,20.00928010899401,0 -98.78005474279102,20.0093151476106,0 -98.78001494669644,20.00939458034892,0 -98.78002733023604,20.00971934339922,0 -98.78004962010753,20.0103134058492,0 -98.78007197556697,20.01046994845696,0 -98.78015151695257,20.01065453542626,0 -98.78018131304756,20.01093724506848,0 -98.78018125193958,20.0113437813685,0 -98.78019187167028,20.01174840711117,0 -98.78017122444365,20.01180512578647,0 -98.78013509796396,20.01184145282269,0 -98.77994932921608,20.01183622567533,0 -98.7791634609457,20.01185433856511,0 -98.77840109371733,20.01186205415981,0 -98.77805178341293,20.01186200390515,0 -98.77783831524903,20.01186197298009,0 -98.77769492720904,20.01186642211095,0 -98.77505167251812,20.011897649434,0 -98.7749857116073,20.01190733514356,0 -98.77494686839458,20.01194156937184,0 -98.77495638982971,20.01197661168007,0 -98.77499813774898,20.01199607211235,0 -98.7750750930424,20.01199726318782,0 -98.77619385751036,20.01195014216555,0 -98.77714715691958,20.01194077970857,0 -98.77753963080721,20.01194685022443,0 -98.777876849089,20.01194149763097,0 -98.7781600021614,20.01193592157743,0 -98.77875554686938,20.0119304008967,0 -98.77947284707652,20.01193050027561,0 -98.77994296760249,20.01193056384129,0 -98.7800445937756,20.0119291782018,0 -98.7801232094576,20.01191941472677,0 -98.78017918434858,20.01190691040675,0 -98.78023568555902,20.011865651774,0 -98.78027291902404,20.01178510112098,0 -98.7802760472224,20.01167276202697,0 -98.78027193004772,20.01107557506364,0 -98.7802663404032,20.01066117249654,0 -98.78024747227826,20.01043305729658,0 -98.78018062133559,20.01021863907926,0 -98.78014528524244,20.01007888877668,0 -98.78014060899451,20.00985494414525,0 -98.78014384143282,20.00959696956387,0 -98.780145855122,20.0093824138002,0 -98.78016820405878,20.00931650742929,0 -98.78028142289098,20.0093032827963,0 -98.78051842109119,20.00930727884656,0 -98.7806772508379,20.00930597763112,0 -98.78080316865073,20.00931596101539,0 -98.78093031700982,20.00934543729399,0 -98.7810539817806,20.00937327631875,0 -98.78118635736931,20.0093880229586,0 -98.78154517065805,20.00938479413925,0 -98.78203984653294,20.00937503414553,0 -98.78245962705485,20.00936199045189,0 -98.78328976143223,20.00935062998509,0 -98.78407290679858,20.00933435020998,0 -98.78472711965652,20.00933442017805,0 -98.78493447584975,20.00934098860633,0 -98.78507729941256,20.00938355673572,0 -98.78528630773228,20.00946541160765,0 -98.78544306455862,20.00952598435171,0 -98.78559285908707,20.00954727621822,0 -98.78569388500877,20.00954892302954,0 -98.7863738926565,20.00954407937427,0 -98.78700809240605,20.00955395907483,0 -98.787727473133,20.00955893404804,0 -98.78846813627612,20.00957536461367,0 -98.78915718278138,20.00959178796407,0 -98.78981742386225,20.00961638980845,0 -98.79010699737945,20.00961692144688,0 -98.79029685222611,20.00964966889543,0 -98.79047973867236,20.00969878231876,0 -98.79065391407542,20.00977571829099,0 -98.7908367931968,20.00992630497319,0 -98.79100225528269,20.01007361717938,0 -98.79114246021823,20.01015953638633,0 -98.7912783180293,20.01021191908439,0 -98.79140372637752,20.01024793429823,0 -98.79152913601692,20.01026921941583,0 -98.79163712922292,20.01026922659114,0 -98.79175731498422,20.01027414450727,0 -98.791851372878,20.01028724401428,0 -98.7919018826038,20.01033471078984,0 -98.79195466353221,20.01039036086711,0 -98.79199994764581,20.01043455382151,0 -98.7920400077511,20.01045910640996,0 -98.79211838888962,20.01047056809462,0 -98.79219328815998,20.01045747951033,0 -98.79228038168711,20.01042311497469,0 -98.79231696389641,20.01036747054695,0 -98.79235702912725,20.01032000966696,0 -98.79240405993004,20.01029709923156,0 -98.79246502380879,20.01029546633135,0 -98.79275242504791,20.01029384713392,0 -98.79296667035985,20.01029385984848,0 -98.79370828901949,20.01026280532828,0 -98.79435475641868,20.01028084287952,0 -98.79490433336503,20.01028087010681,0 -98.79546570756634,20.01029398951292,0 -98.79619632328969,20.01029402078499,0 -98.79756373207965,20.01029407126361,0 -98.79849599162145,20.01029409966294,0 -98.79956463369921,20.01029412621721,0 -98.80062614669752,20.01029905625615,0 -98.80153910335248,20.01029906842715,0 -98.8025137746551,20.01029907625854,0 -98.80327250971503,20.01029907866462,0 -98.80346038862444,20.01030071543615,0 -98.80351264328078,20.01031217210515,0 -98.80353006149187,20.01034326880363,0 -98.8035178687459,20.01036454549935,0 -98.80348303231425,20.01038909553051,0 -98.80342206854357,20.0104185555539,0 -98.80336633021263,20.01044801555205,0 -98.80330710822321,20.01051184556862,0 -98.80328272265052,20.01058222231227,0 -98.80329143168596,20.01069678921565,0 -98.80340755303025,20.0109226891533,0 -98.80355909212405,20.01118291935873,0 -98.80365489306877,20.01133840285085,0 -98.80371934103027,20.01138586623495,0 -98.80379946559387,20.01142514628446,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

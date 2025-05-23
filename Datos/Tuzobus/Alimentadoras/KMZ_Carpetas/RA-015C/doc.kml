@@ -1,0 +1,2509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA-015C.kmz</name>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight10">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight3">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot00">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot30">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle00">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle1">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot20">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot5">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder id="0A8BADB48430A9B076B2">
+		<name>RA-015C</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 15C
+Blvd. ROJO GOMEZ
+Zona de Transferencia Estación Estación Central de Autobuses.]]></description>
+				<LookAt>
+					<longitude>-98.75448526768876</longitude>
+					<latitude>20.10525280965686</latitude>
+					<altitude>0</altitude>
+					<heading>1.194360313477827</heading>
+					<tilt>21.77434911388062</tilt>
+					<range>648.9854219592142</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.75226829239193,20.10641133188038,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Felipe Ángeles
+Zona de Transferencia Estación Estadio Hidalgo.]]></description>
+				<LookAt>
+					<longitude>-98.76097887626781</longitude>
+					<latitude>20.10275183958829</latitude>
+					<altitude>0</altitude>
+					<heading>0.001445556630808941</heading>
+					<tilt>27.80394226082208</tilt>
+					<range>62.58099966768621</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76115852625678,20.10277369748941,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Felipe Ángeles
+Zona de Transferencia Estación Estadio Hidalgo.]]></description>
+				<LookAt>
+					<longitude>-98.76005469317292</longitude>
+					<latitude>20.1028884025604</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02080634936965301</heading>
+					<tilt>25.08386731127874</tilt>
+					<range>1426.059110816015</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76065778270637,20.10284830245978,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Av. Ferrocarril Central]]></description>
+				<LookAt>
+					<longitude>-98.76538644164528</longitude>
+					<latitude>20.10275617840665</latitude>
+					<altitude>0</altitude>
+					<heading>0.0009974552889364325</heading>
+					<tilt>25.69445064060093</tilt>
+					<range>84.22305139657534</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76568955174301,20.10280902845537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Av. Ferrocarril Central]]></description>
+				<LookAt>
+					<longitude>-98.76117316637409</longitude>
+					<latitude>20.1027838200658</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02119077403906551</heading>
+					<tilt>25.08386862858726</tilt>
+					<range>1426.405049370055</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.765096189701,20.10186169862542,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Pirules]]></description>
+				<LookAt>
+					<longitude>-98.7684129513292</longitude>
+					<latitude>20.10529266210578</latitude>
+					<altitude>0</altitude>
+					<heading>-35.75497906989676</heading>
+					<tilt>41.87207306195923</tilt>
+					<range>85.0757433146851</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76839455689105,20.1053751088,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Pirules]]></description>
+				<LookAt>
+					<longitude>-98.76117179467374</longitude>
+					<latitude>20.10490926886778</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02351386804894036</heading>
+					<tilt>24.40648969800128</tilt>
+					<range>1974.686921378494</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76784684126058,20.10436957510762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Calle Amapola]]></description>
+				<LookAt>
+					<longitude>-98.76961236431089</longitude>
+					<latitude>20.10643934068843</latitude>
+					<altitude>0</altitude>
+					<heading>72.02342076226145</heading>
+					<tilt>35.46521669720472</tilt>
+					<range>70.908575284706</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7695840966949,20.10649321591579,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Calle Amapola]]></description>
+				<LookAt>
+					<longitude>-98.76879965389701</longitude>
+					<latitude>20.10706524027791</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01129894429291662</heading>
+					<tilt>29.49723923424041</tilt>
+					<range>785.8124758144647</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76970437214946,20.1062296296111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Javier Rojo Gómez]]></description>
+				<LookAt>
+					<longitude>-98.77183259766244</longitude>
+					<latitude>20.10857713779141</latitude>
+					<altitude>0</altitude>
+					<heading>7.873090881405904e-05</heading>
+					<tilt>38.39472501287958</tilt>
+					<range>67.59983198032404</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77185940215769,20.10865406060485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Javier Rojo Gómez]]></description>
+				<LookAt>
+					<longitude>-98.7717447180825</longitude>
+					<latitude>20.10916308945198</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01231133490223037</heading>
+					<tilt>29.49630315882841</tilt>
+					<range>574.0835783060917</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7720327089676,20.10842711407447,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Centro de Rehabilitación Integral de Hidalgo (CRIH)]]></description>
+				<LookAt>
+					<longitude>-98.77435203567885</longitude>
+					<latitude>20.1112270658737</latitude>
+					<altitude>0</altitude>
+					<heading>0.000123681500993356</heading>
+					<tilt>33.18594969155444</tilt>
+					<range>56.68831046257237</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77445121144167,20.11117915588435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+
+Blvd. Ramon G Bonfil, Frente a Bodega Aurrera.]]></description>
+				<LookAt>
+					<longitude>-98.77430667287034</longitude>
+					<latitude>20.11218785344167</latitude>
+					<altitude>0</altitude>
+					<heading>20.01925244315483</heading>
+					<tilt>25.04709849222752</tilt>
+					<range>805.533427585468</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77474018428485,20.11274181584097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+
+Blvd. Ramon G Bonfil, Frente a Bodega Aurrera.]]></description>
+				<LookAt>
+					<longitude>-98.77460509098714</longitude>
+					<latitude>20.11119034423706</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01329481576675613</heading>
+					<tilt>29.496299186896</tilt>
+					<range>573.1852914615292</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77474528575345,20.11101643433234,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+
+Blvd. Ramon G Bonfil, Frente a Bodega Aurrera.]]></description>
+				<LookAt>
+					<longitude>-98.77413450692845</longitude>
+					<latitude>20.11307670281367</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02044326175908612</heading>
+					<tilt>26.78672734262981</tilt>
+					<range>695.0045058296831</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77500388348331,20.11294464363649,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Ramon G Bonfil, Frente a Esq. Av. Piracantos.]]></description>
+				<LookAt>
+					<longitude>-98.77251668056323</longitude>
+					<latitude>20.11339255369137</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003477908040889651</heading>
+					<tilt>33.07779116906971</tilt>
+					<range>127.941416238151</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77278217369113,20.11329927107096,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Ramon G Bonfil, Frente a Esq. Av. Piracantos.]]></description>
+				<LookAt>
+					<longitude>-98.77282606916017</longitude>
+					<latitude>20.11391907233558</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01999330960425913</heading>
+					<tilt>26.78672171399139</tilt>
+					<range>693.613594256742</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77316684800232,20.11324549755185,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Yuca]]></description>
+				<LookAt>
+					<longitude>-98.7743253020615</longitude>
+					<latitude>20.11510752222608</latitude>
+					<altitude>0</altitude>
+					<heading>27.76064232613546</heading>
+					<tilt>38.24253044597383</tilt>
+					<range>72.21813462837675</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77434904155203,20.1151702428795,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Yuca]]></description>
+				<LookAt>
+					<longitude>-98.77458513201276</longitude>
+					<latitude>20.11539245585828</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02059822541297346</heading>
+					<tilt>26.78588328090885</tilt>
+					<range>486.4156383209551</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77456500616422,20.11475532616326,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Av Insurgentes.]]></description>
+				<LookAt>
+					<longitude>-98.77315806921244</longitude>
+					<latitude>20.11759924443477</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01155256322872363</heading>
+					<tilt>30.0028280177964</tilt>
+					<range>629.872137540885</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77442958437824,20.11728246606715,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Av Insurgentes.]]></description>
+				<LookAt>
+					<longitude>-98.7750812578401</longitude>
+					<latitude>20.11717033227148</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02076885658922836</heading>
+					<tilt>26.78586359766774</tilt>
+					<range>481.551819877391</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77469674100382,20.11714635447417,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Mineral del Chico.]]></description>
+				<LookAt>
+					<longitude>-98.77334422883546</longitude>
+					<latitude>20.11803907917443</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01161665997369249</heading>
+					<tilt>30.00225783807635</tilt>
+					<range>502.8504790091357</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77445811262484,20.11863600219106,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Mineral del Chico.]]></description>
+				<LookAt>
+					<longitude>-98.77521318433968</longitude>
+					<latitude>20.11804194249347</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02416864603192981</heading>
+					<tilt>25.69730612991909</tilt>
+					<range>770.7684232572437</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77476909229821,20.11885636070486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Piracantos Esq. Calle Magisterio (Hospital Obstétrico)]]></description>
+				<LookAt>
+					<longitude>-98.7745985836272</longitude>
+					<latitude>20.12042776041404</latitude>
+					<altitude>0</altitude>
+					<heading>-59.31805388705065</heading>
+					<tilt>34.59241472525602</tilt>
+					<range>102.8115384177263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.774554419795,20.12022936412266,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Piracantos Esq. Calle Magisterio (Hospital Obstétrico)]]></description>
+				<LookAt>
+					<longitude>-98.77553598129572</longitude>
+					<latitude>20.11792422171218</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02479559785038615</heading>
+					<tilt>25.5374882698371</tilt>
+					<range>816.6301022298715</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77485657880935,20.12034540005331,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la ruta alimentadora 15C
+Av. Solidaridad Esq. Calle 19]]></description>
+				<LookAt>
+					<longitude>-98.77588322140362</longitude>
+					<latitude>20.12172946877238</latitude>
+					<altitude>0</altitude>
+					<heading>-59.31854296605397</heading>
+					<tilt>45.07738233664838</tilt>
+					<range>103.0968721547285</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77603432154754,20.12170857954396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la ruta alimentadora 15C
+Av. Solidaridad Esq. Calle 19]]></description>
+				<LookAt>
+					<longitude>-98.7765848177665</longitude>
+					<latitude>20.12081056759364</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0251564954176268</heading>
+					<tilt>25.53744999379931</tilt>
+					<range>806.7426942629994</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77584244865085,20.12138333772197,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 15]]></description>
+				<LookAt>
+					<longitude>-98.77742531286385</longitude>
+					<latitude>20.1217059317191</latitude>
+					<altitude>0</altitude>
+					<heading>1.307609844560309e-05</heading>
+					<tilt>36.5088146163238</tilt>
+					<range>72.71751394351359</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77738488448007,20.12175188651887,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 15]]></description>
+				<LookAt>
+					<longitude>-98.77685302522818</longitude>
+					<latitude>20.12047983139638</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02524874786304504</heading>
+					<tilt>25.53650193619504</tilt>
+					<range>561.8124986099784</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77741165523149,20.12152428254538,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 9]]></description>
+				<LookAt>
+					<longitude>-98.77965093742588</longitude>
+					<latitude>20.12173162730641</latitude>
+					<altitude>0</altitude>
+					<heading>0.007663640260440667</heading>
+					<tilt>30.88565923820498</tilt>
+					<range>137.392787655417</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.779927104755,20.1218442857744,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 9]]></description>
+				<LookAt>
+					<longitude>-98.77998248187551</longitude>
+					<latitude>20.12065357429118</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02632526032346647</heading>
+					<tilt>25.53649510781118</tilt>
+					<range>560.0485589176469</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77976882163675,20.12163694238022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​17</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Constituyentes Esq. Av. Gabriel Mancera]]></description>
+				<LookAt>
+					<longitude>-98.7817314975251</longitude>
+					<latitude>20.12185262372794</latitude>
+					<altitude>0</altitude>
+					<heading>0.006939142931954669</heading>
+					<tilt>34.44159360175328</tilt>
+					<range>76.93384703434344</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78184187639816,20.12173243553502,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​31</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Constituyentes Esq. Av. Gabriel Mancera]]></description>
+				<LookAt>
+					<longitude>-98.78053354168019</longitude>
+					<latitude>20.12065793991195</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02651482780927294</heading>
+					<tilt>25.53649887276585</tilt>
+					<range>561.0212210530011</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78154520561023,20.12173538638777,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​18</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Gabriel Mancera, Esq, Calle Diamante.]]></description>
+				<LookAt>
+					<longitude>-98.78353280457804</longitude>
+					<latitude>20.11967652865178</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01834756538751398</heading>
+					<tilt>28.703205490279</tilt>
+					<range>721.812661711711</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78236787118537,20.11971584608881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​30</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Gabriel Mancera, Esq, Calle Diamante.]]></description>
+				<LookAt>
+					<longitude>-98.78124113879788</longitude>
+					<latitude>20.11898704362951</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02675817898876362</heading>
+					<tilt>25.53653950269964</tilt>
+					<range>571.5170279801793</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78208811248523,20.11987454867262,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​19</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq, Calle Gabriel Mancera.]]></description>
+				<LookAt>
+					<longitude>-98.78353280457804</longitude>
+					<latitude>20.11967652865178</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01834756538751398</heading>
+					<tilt>28.703205490279</tilt>
+					<range>721.812661711711</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78322574299037,20.11883596436401,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​29-1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq, Calle Gabriel Mancera.]]></description>
+				<LookAt>
+					<longitude>-98.78122356090594</longitude>
+					<latitude>20.11629622947305</latitude>
+					<altitude>0</altitude>
+					<heading>-7.633180436136063</heading>
+					<tilt>22.63859061301185</tilt>
+					<range>1389.052858118746</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78381305219588,20.11875904346969,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​29-4</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq, Calle Gabriel Mancera.]]></description>
+				<LookAt>
+					<longitude>-98.77746265321488</longitude>
+					<latitude>20.11341667750589</latitude>
+					<altitude>0</altitude>
+					<heading>-7.631886872435188</heading>
+					<tilt>22.63860228547385</tilt>
+					<range>1392.429857280752</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78056619883604,20.11666983938683,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​29-3</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq, Calle Gabriel Mancera.]]></description>
+				<LookAt>
+					<longitude>-98.77746265321488</longitude>
+					<latitude>20.11341667750589</latitude>
+					<altitude>0</altitude>
+					<heading>-7.631886872435188</heading>
+					<tilt>22.63860228547385</tilt>
+					<range>1392.429857280752</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77726042959658,20.11325900914846,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​29-2</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq, Calle Gabriel Mancera.]]></description>
+				<LookAt>
+					<longitude>-98.78122356090594</longitude>
+					<latitude>20.11629622947305</latitude>
+					<altitude>0</altitude>
+					<heading>-7.633180436136063</heading>
+					<tilt>22.63859061301185</tilt>
+					<range>1389.052858118746</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7814194843823,20.11681953812818,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​20</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio]]></description>
+				<LookAt>
+					<longitude>-98.78497907021212</longitude>
+					<latitude>20.11902200659365</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01923624068787957</heading>
+					<tilt>28.55293045532625</tilt>
+					<range>744.021922334366</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78580328382174,20.12088614236928,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​28</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio]]></description>
+				<LookAt>
+					<longitude>-98.78471964814332</longitude>
+					<latitude>20.11977645270855</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02795473997179575</heading>
+					<tilt>25.53587311722905</tilt>
+					<range>399.3601436078656</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78570923422457,20.12034608261225,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​21</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq. Calle Primera del Álamos]]></description>
+				<LookAt>
+					<longitude>-98.78541445776622</longitude>
+					<latitude>20.1201653924431</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04178497621485892</heading>
+					<tilt>21.90811563225364</tilt>
+					<range>553.680217164045</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78679202379456,20.12116229226645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​23</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Ayuntamiento, Esq. Av. Prol. Ayuntamiento.]]></description>
+				<LookAt>
+					<longitude>-98.78855037602547</longitude>
+					<latitude>20.1201611490045</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04286370033494109</heading>
+					<tilt>21.90813174860411</tilt>
+					<range>558.4903174857873</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78752301359792,20.12030035017877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​24</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Altar]]></description>
+				<LookAt>
+					<longitude>-98.78825193547738</longitude>
+					<latitude>20.12005294256775</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04023024362210046</heading>
+					<tilt>22.50631695535335</tilt>
+					<range>315.0974639239529</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78881264407042,20.12056329299603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​25</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Altar, Esq. Calle Ayuntamiento.]]></description>
+				<LookAt>
+					<longitude>-98.78835466787426</longitude>
+					<latitude>20.12008289102478</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0390439064925896</heading>
+					<tilt>22.80711342287081</tilt>
+					<range>267.5663348339606</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78876282179904,20.12025181352408,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​26</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Ayuntamiento, Esq. Calle Margaritas.]]></description>
+				<LookAt>
+					<longitude>-98.78755829551085</longitude>
+					<latitude>20.1200029706175</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03877006271795015</heading>
+					<tilt>22.8079950210097</tilt>
+					<range>520.6952267875207</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7876585840083,20.12002014723952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​27</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Ayuntamiento, Esq. Calle Margaritas.]]></description>
+				<LookAt>
+					<longitude>-98.78714724690468</longitude>
+					<latitude>20.11981702783494</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03020234632915071</heading>
+					<tilt>25.10869740677451</tilt>
+					<range>366.5567823455811</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78688477200384,20.11981855832069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​22</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Ayuntamiento, Esq. Av. Prol. Ayuntamiento.]]></description>
+				<LookAt>
+					<longitude>-98.78609883626798</longitude>
+					<latitude>20.11944767216638</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03281104065248953</heading>
+					<tilt>24.24061957184278</tilt>
+					<range>548.7872960516751</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78694329876993,20.11996360023627,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Alimentadora 15C
+Blvd. ROJO GOMEZ
+Zona de Transferencia Estación Estación Central de Autobuses.]]></description>
+				<LookAt>
+					<longitude>-98.75448526768876</longitude>
+					<latitude>20.10525280965686</latitude>
+					<altitude>0</altitude>
+					<heading>1.194360313477827</heading>
+					<tilt>21.77434911388062</tilt>
+					<range>648.9854219592142</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.75226829239193,20.10641133188038,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Felipe Ángeles
+Zona de Transferencia Estación Estadio Hidalgo.]]></description>
+				<LookAt>
+					<longitude>-98.76097887626781</longitude>
+					<latitude>20.10275183958829</latitude>
+					<altitude>0</altitude>
+					<heading>0.001445556630808941</heading>
+					<tilt>27.80394226082208</tilt>
+					<range>62.58099966768621</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76115852625678,20.10277369748941,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Felipe Ángeles
+Zona de Transferencia Estación Estadio Hidalgo.]]></description>
+				<LookAt>
+					<longitude>-98.76005469317292</longitude>
+					<latitude>20.1028884025604</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02080634936965301</heading>
+					<tilt>25.08386731127874</tilt>
+					<range>1426.059110816015</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76065778270637,20.10284830245978,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Av. Ferrocarril Central]]></description>
+				<LookAt>
+					<longitude>-98.76538644164528</longitude>
+					<latitude>20.10275617840665</latitude>
+					<altitude>0</altitude>
+					<heading>0.0009974552889364325</heading>
+					<tilt>25.69445064060093</tilt>
+					<range>84.22305139657534</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76568955174301,20.10280902845537,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Av. Ferrocarril Central]]></description>
+				<LookAt>
+					<longitude>-98.76117316637409</longitude>
+					<latitude>20.1027838200658</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02119077403906551</heading>
+					<tilt>25.08386862858726</tilt>
+					<range>1426.405049370055</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.765096189701,20.10186169862542,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Pirules]]></description>
+				<LookAt>
+					<longitude>-98.7684129513292</longitude>
+					<latitude>20.10529266210578</latitude>
+					<altitude>0</altitude>
+					<heading>-35.75497906989676</heading>
+					<tilt>41.87207306195923</tilt>
+					<range>85.0757433146851</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76839455689105,20.1053751088,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Pirules]]></description>
+				<LookAt>
+					<longitude>-98.76117179467374</longitude>
+					<latitude>20.10490926886778</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02351386804894036</heading>
+					<tilt>24.40648969800128</tilt>
+					<range>1974.686921378494</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76784684126058,20.10436957510762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Calle Amapola]]></description>
+				<LookAt>
+					<longitude>-98.76961236431089</longitude>
+					<latitude>20.10643934068843</latitude>
+					<altitude>0</altitude>
+					<heading>72.02342076226145</heading>
+					<tilt>35.46521669720472</tilt>
+					<range>70.908575284706</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7695840966949,20.10649321591579,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Calle Amapola]]></description>
+				<LookAt>
+					<longitude>-98.76879965389701</longitude>
+					<latitude>20.10706524027791</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01129894429291662</heading>
+					<tilt>29.49723923424041</tilt>
+					<range>785.8124758144647</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.76970437214946,20.1062296296111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Javier Rojo Gómez]]></description>
+				<LookAt>
+					<longitude>-98.77183259766244</longitude>
+					<latitude>20.10857713779141</latitude>
+					<altitude>0</altitude>
+					<heading>7.873090881405904e-05</heading>
+					<tilt>38.39472501287958</tilt>
+					<range>67.59983198032404</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77185940215769,20.10865406060485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Luis Donaldo Colosio Esq. Calle Javier Rojo Gómez]]></description>
+				<LookAt>
+					<longitude>-98.7717447180825</longitude>
+					<latitude>20.10916308945198</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01231133490223037</heading>
+					<tilt>29.49630315882841</tilt>
+					<range>574.0835783060917</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7720327089676,20.10842711407447,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+ Blvd. Luis Donaldo Colosio Esq. Centro de Rehabilitación Integral de Hidalgo (CRIH)]]></description>
+				<LookAt>
+					<longitude>-98.77435203567885</longitude>
+					<latitude>20.1112270658737</latitude>
+					<altitude>0</altitude>
+					<heading>0.000123681500993356</heading>
+					<tilt>33.18594969155444</tilt>
+					<range>56.68831046257237</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77445121144167,20.11117915588435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+
+Blvd. Ramon G Bonfil, Frente a Bodega Aurrera.]]></description>
+				<LookAt>
+					<longitude>-98.77430667287034</longitude>
+					<latitude>20.11218785344167</latitude>
+					<altitude>0</altitude>
+					<heading>20.01925244315483</heading>
+					<tilt>25.04709849222752</tilt>
+					<range>805.533427585468</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77474018428485,20.11274181584097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+
+Blvd. Ramon G Bonfil, Frente a Bodega Aurrera.]]></description>
+				<LookAt>
+					<longitude>-98.77460509098714</longitude>
+					<latitude>20.11119034423706</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01329481576675613</heading>
+					<tilt>29.496299186896</tilt>
+					<range>573.1852914615292</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77474528575345,20.11101643433234,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+
+Blvd. Ramon G Bonfil, Frente a Bodega Aurrera.]]></description>
+				<LookAt>
+					<longitude>-98.77413450692845</longitude>
+					<latitude>20.11307670281367</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02044326175908612</heading>
+					<tilt>26.78672734262981</tilt>
+					<range>695.0045058296831</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77500388348331,20.11294464363649,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Ramon G Bonfil, Frente a Esq. Av. Piracantos.]]></description>
+				<LookAt>
+					<longitude>-98.77251668056323</longitude>
+					<latitude>20.11339255369137</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003477908040889651</heading>
+					<tilt>33.07779116906971</tilt>
+					<range>127.941416238151</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77278217369113,20.11329927107096,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Ramon G Bonfil, Frente a Esq. Av. Piracantos.]]></description>
+				<LookAt>
+					<longitude>-98.77282606916017</longitude>
+					<latitude>20.11391907233558</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01999330960425913</heading>
+					<tilt>26.78672171399139</tilt>
+					<range>693.613594256742</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77316684800232,20.11324549755185,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Yuca]]></description>
+				<LookAt>
+					<longitude>-98.7743253020615</longitude>
+					<latitude>20.11510752222608</latitude>
+					<altitude>0</altitude>
+					<heading>27.76064232613546</heading>
+					<tilt>38.24253044597383</tilt>
+					<range>72.21813462837675</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77434904155203,20.1151702428795,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Yuca]]></description>
+				<LookAt>
+					<longitude>-98.77458513201276</longitude>
+					<latitude>20.11539245585828</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02059822541297346</heading>
+					<tilt>26.78588328090885</tilt>
+					<range>486.4156383209551</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77456500616422,20.11475532616326,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Av Insurgentes.]]></description>
+				<LookAt>
+					<longitude>-98.77315806921244</longitude>
+					<latitude>20.11759924443477</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01155256322872363</heading>
+					<tilt>30.0028280177964</tilt>
+					<range>629.872137540885</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77442958437824,20.11728246606715,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Av Insurgentes.]]></description>
+				<LookAt>
+					<longitude>-98.7750812578401</longitude>
+					<latitude>20.11717033227148</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02076885658922836</heading>
+					<tilt>26.78586359766774</tilt>
+					<range>481.551819877391</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77469674100382,20.11714635447417,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Mineral del Chico.]]></description>
+				<LookAt>
+					<longitude>-98.77334422883546</longitude>
+					<latitude>20.11803907917443</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01161665997369249</heading>
+					<tilt>30.00225783807635</tilt>
+					<range>502.8504790091357</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77445811262484,20.11863600219106,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+AV. Piracantos, Esq. Calle Mineral del Chico.]]></description>
+				<LookAt>
+					<longitude>-98.77521318433968</longitude>
+					<latitude>20.11804194249347</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02416864603192981</heading>
+					<tilt>25.69730612991909</tilt>
+					<range>770.7684232572437</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77476909229821,20.11885636070486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Piracantos Esq. Calle Magisterio (Hospital Obstétrico)]]></description>
+				<LookAt>
+					<longitude>-98.7745985836272</longitude>
+					<latitude>20.12042776041404</latitude>
+					<altitude>0</altitude>
+					<heading>-59.31805388705065</heading>
+					<tilt>34.59241472525602</tilt>
+					<range>102.8115384177263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.774554419795,20.12022936412266,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Piracantos Esq. Calle Magisterio (Hospital Obstétrico)]]></description>
+				<LookAt>
+					<longitude>-98.77553598129572</longitude>
+					<latitude>20.11792422171218</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02479559785038615</heading>
+					<tilt>25.5374882698371</tilt>
+					<range>816.6301022298715</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77485657880935,20.12034540005331,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la ruta alimentadora 15C
+Av. Solidaridad Esq. Calle 19]]></description>
+				<LookAt>
+					<longitude>-98.77588322140362</longitude>
+					<latitude>20.12172946877238</latitude>
+					<altitude>0</altitude>
+					<heading>-59.31854296605397</heading>
+					<tilt>45.07738233664838</tilt>
+					<range>103.0968721547285</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77603432154754,20.12170857954396,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la ruta alimentadora 15C
+Av. Solidaridad Esq. Calle 19]]></description>
+				<LookAt>
+					<longitude>-98.7765848177665</longitude>
+					<latitude>20.12081056759364</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0251564954176268</heading>
+					<tilt>25.53744999379931</tilt>
+					<range>806.7426942629994</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77584244865085,20.12138333772197,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 15]]></description>
+				<LookAt>
+					<longitude>-98.77742531286385</longitude>
+					<latitude>20.1217059317191</latitude>
+					<altitude>0</altitude>
+					<heading>1.307609844560309e-05</heading>
+					<tilt>36.5088146163238</tilt>
+					<range>72.71751394351359</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77738488448007,20.12175188651887,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 15]]></description>
+				<LookAt>
+					<longitude>-98.77685302522818</longitude>
+					<latitude>20.12047983139638</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02524874786304504</heading>
+					<tilt>25.53650193619504</tilt>
+					<range>561.8124986099784</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77741165523149,20.12152428254538,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 9]]></description>
+				<LookAt>
+					<longitude>-98.77965093742588</longitude>
+					<latitude>20.12173162730641</latitude>
+					<altitude>0</altitude>
+					<heading>0.007663640260440667</heading>
+					<tilt>30.88565923820498</tilt>
+					<range>137.392787655417</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.779927104755,20.1218442857744,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Solidaridad Esq. Calle 9]]></description>
+				<LookAt>
+					<longitude>-98.77998248187551</longitude>
+					<latitude>20.12065357429118</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02632526032346647</heading>
+					<tilt>25.53649510781118</tilt>
+					<range>560.0485589176469</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77976882163675,20.12163694238022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​17</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Constituyentes Esq. Av. Gabriel Mancera]]></description>
+				<LookAt>
+					<longitude>-98.7817314975251</longitude>
+					<latitude>20.12185262372794</latitude>
+					<altitude>0</altitude>
+					<heading>0.006939142931954669</heading>
+					<tilt>34.44159360175328</tilt>
+					<range>76.93384703434344</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78184187639816,20.12173243553502,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​31</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Constituyentes Esq. Av. Gabriel Mancera]]></description>
+				<LookAt>
+					<longitude>-98.78053354168019</longitude>
+					<latitude>20.12065793991195</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02651482780927294</heading>
+					<tilt>25.53649887276585</tilt>
+					<range>561.0212210530011</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78154520561023,20.12173538638777,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​18</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Gabriel Mancera, Esq, Calle Diamante.]]></description>
+				<LookAt>
+					<longitude>-98.78353280457804</longitude>
+					<latitude>20.11967652865178</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01834756538751398</heading>
+					<tilt>28.703205490279</tilt>
+					<range>721.812661711711</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78236787118537,20.11971584608881,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​30</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Gabriel Mancera, Esq, Calle Diamante.]]></description>
+				<LookAt>
+					<longitude>-98.78124113879788</longitude>
+					<latitude>20.11898704362951</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02675817898876362</heading>
+					<tilt>25.53653950269964</tilt>
+					<range>571.5170279801793</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78208811248523,20.11987454867262,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​19</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq, Calle Gabriel Mancera.]]></description>
+				<LookAt>
+					<longitude>-98.78353280457804</longitude>
+					<latitude>20.11967652865178</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01834756538751398</heading>
+					<tilt>28.703205490279</tilt>
+					<range>721.812661711711</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78322574299037,20.11883596436401,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​29</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq, Calle Gabriel Mancera.]]></description>
+				<LookAt>
+					<longitude>-98.783408460065</longitude>
+					<latitude>20.11880752189095</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0275037054568711</heading>
+					<tilt>25.53652691279322</tilt>
+					<range>568.2647005219208</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78293715266557,20.11870899191621,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​20</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio]]></description>
+				<LookAt>
+					<longitude>-98.78497907021212</longitude>
+					<latitude>20.11902200659365</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01923624068787957</heading>
+					<tilt>28.55293045532625</tilt>
+					<range>744.021922334366</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78580328382174,20.12088614236928,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​28</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio]]></description>
+				<LookAt>
+					<longitude>-98.78471964814332</longitude>
+					<latitude>20.11977645270855</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02795473997179575</heading>
+					<tilt>25.53587311722905</tilt>
+					<range>399.3601436078656</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78570923422457,20.12034608261225,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​21</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Blvd. Colosio, Esq. Calle Primera del Álamos]]></description>
+				<LookAt>
+					<longitude>-98.78541445776622</longitude>
+					<latitude>20.1201653924431</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04178497621485892</heading>
+					<tilt>21.90811563225364</tilt>
+					<range>553.680217164045</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78679202379456,20.12116229226645,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​23</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Ayuntamiento, Esq. Av. Prol. Ayuntamiento.]]></description>
+				<LookAt>
+					<longitude>-98.78855037602547</longitude>
+					<latitude>20.1201611490045</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04286370033494109</heading>
+					<tilt>21.90813174860411</tilt>
+					<range>558.4903174857873</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78752301359792,20.12030035017877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​24</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Altar]]></description>
+				<LookAt>
+					<longitude>-98.78825193547738</longitude>
+					<latitude>20.12005294256775</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04023024362210046</heading>
+					<tilt>22.50631695535335</tilt>
+					<range>315.0974639239529</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78881264407042,20.12056329299603,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​25</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Altar, Esq. Calle Ayuntamiento.]]></description>
+				<LookAt>
+					<longitude>-98.78835466787426</longitude>
+					<latitude>20.12008289102478</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0390439064925896</heading>
+					<tilt>22.80711342287081</tilt>
+					<range>267.5663348339606</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78876282179904,20.12025181352408,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​26</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Ayuntamiento, Esq. Calle Margaritas.]]></description>
+				<LookAt>
+					<longitude>-98.78755829551085</longitude>
+					<latitude>20.1200029706175</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03877006271795015</heading>
+					<tilt>22.8079950210097</tilt>
+					<range>520.6952267875207</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7876585840083,20.12002014723952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​27</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Calle Ayuntamiento, Esq. Calle Margaritas.]]></description>
+				<LookAt>
+					<longitude>-98.78714724690468</longitude>
+					<latitude>20.11981702783494</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03020234632915071</heading>
+					<tilt>25.10869740677451</tilt>
+					<range>366.5567823455811</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78688477200384,20.11981855832069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>​22</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 15C
+Av. Ayuntamiento, Esq. Av. Prol. Ayuntamiento.]]></description>
+				<LookAt>
+					<longitude>-98.78609883626798</longitude>
+					<latitude>20.11944767216638</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03281104065248953</heading>
+					<tilt>24.24061957184278</tilt>
+					<range>548.7872960516751</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78694329876993,20.11996360023627,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>​</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.78868404969207,20.12025489782681,0 -98.78780180241468,20.12008942116189,0 -98.78710407568802,20.11992421125853,0 -98.78674591676899,20.11978202030906,0 -98.78634731853508,20.1201933867892,0 -98.78597891150676,20.12057917207374,0 -98.78349334999798,20.11865205256772,0 -98.78277535002881,20.11809831258166,0 -98.78125804454187,20.11690032842326,0 -98.77947781357307,20.1154715545669,0 -98.7788639365441,20.11496058325994,0 -98.77757008748864,20.113734798658,0 -98.77712417212165,20.11331135587842,0 -98.7766253130051,20.11284546761149,0 -98.77653342347888,20.11282353349861,0 -98.77644523558746,20.11285880558678,0 -98.77639114529387,20.11295315889229,0 -98.7766169570605,20.11321874200567,0 -98.77860383192881,20.1150113919613,0 -98.78143111818689,20.11735563191026,0 -98.78306293646716,20.11861467701054,0 -98.78288048038505,20.11883775009295,0 -98.78274897058012,20.11903832408071,0 -98.78217500731023,20.11969339882389,0 -98.78193435914655,20.12062777605837,0 -98.78167563695288,20.1217555234174,0 -98.77841437136775,20.12162174444985,0 -98.77720418419824,20.12156842691628,0 -98.77586916322788,20.12146753158632,0 -98.77544729674288,20.12127015995045,0 -98.77485729894391,20.1205928037191,0 -98.77469944135778,20.11796222021922,0 -98.7745718386475,20.11489525045489,0 -98.77455045015304,20.11479603529686,0 -98.77315968346265,20.11369749705433,0 -98.77309861817905,20.11360746641342,0 -98.7730495069288,20.11322105297912,0 -98.77625345430512,20.11278112629373,0 -98.77571422309238,20.11202320580214,0 -98.77475464468039,20.11107074459859,0 -98.77258725194828,20.1090255866564,0 -98.77174038139641,20.10821939624986,0 -98.7697667843329,20.10635433065123,0 -98.76793483164435,20.10461766970598,0 -98.76583383272393,20.10268139536921,0 -98.76457450726464,20.10145583974238,0 -98.76362734749029,20.10058346742328,0 -98.76325241835757,20.10023804251154,0 -98.76303301397466,20.10044259546048,0 -98.76133921967333,20.10210049041231,0 -98.76091072547497,20.10259887355463,0 -98.76085707155598,20.10274116712715,0 -98.76075179390696,20.10288434004518,0 -98.76035183103222,20.10331031883534,0 -98.75978172247662,20.10387830246411,0 -98.75914267266857,20.1045011895344,0 -98.75883866320831,20.10483117822816,0 -98.75770233815872,20.10592709789974,0 -98.75679430318479,20.10661656295674,0 -98.75632176362302,20.10681553789763,0 -98.75584986678103,20.10684205183161,0 -98.75497596718819,20.10670268529989,0 -98.75362682132079,20.10646816263451,0 -98.75288289751072,20.10636302759459,0 -98.75193138355159,20.10618419864739,0 -98.75153355792871,20.10613627301034,0 -98.75121394428059,20.10611914218811,0 -98.75113759557382,20.10621680219705,0 -98.75119905697122,20.1063164159815,0 -98.75175847244445,20.10645091599018,0 -98.75215061848225,20.10654563207441,0 -98.75271288855049,20.10667111215973,0 -98.75304226694503,20.10659167327575,0 -98.75413053822099,20.10677915969529,0 -98.75563929182832,20.10704740576069,0 -98.75649884414115,20.1070573371666,0 -98.75690010778598,20.10692905995676,0 -98.75794651336848,20.10599791001071,0 -98.75870077573614,20.10532249956826,0 -98.75917246276146,20.10483104919976,0 -98.75973302586212,20.10423977217062,0 -98.76055662934931,20.10343267836104,0 -98.76172123692083,20.10233321987431,0 -98.76267926356876,20.10143393613835,0 -98.76300856726783,20.1011778914732,0 -98.76316507977752,20.10111666987264,0 -98.76341573495404,20.10110687077797,0 -98.76387519377126,20.10120755046319,0 -98.76552326096686,20.10276389659316,0 -98.76726371015835,20.1043965210359,0 -98.76924651790851,20.10623332756434,0 -98.77089214618337,20.10782175177221,0 -98.7723985000144,20.10919608572348,0 -98.77278871017295,20.1095400162766,0 -98.77324514966087,20.10998435150455,0 -98.77445751987507,20.1111662811124,0 -98.77453631375673,20.11125687655083,0 -98.77521982236873,20.11179947857879,0 -98.77559272505032,20.11216380404117,0 -98.7756024516744,20.11265310525328,0 -98.77407888075861,20.11289304294883,0 -98.7728044584122,20.11308555974535,0 -98.77289281865603,20.1136997617328,0 -98.77297709614916,20.11387938021987,0 -98.77350732790818,20.11430539949992,0 -98.77424012914079,20.1148909349074,0 -98.77430119122917,20.11501896239632,0 -98.77435687281059,20.11573870821996,0 -98.77440007610652,20.11675684543522,0 -98.774429736865,20.11822635899026,0 -98.77451991684683,20.11937315207112,0 -98.77460166343228,20.12040990236093,0 -98.7746282305328,20.12067002372914,0 -98.77508524431103,20.12128292181838,0 -98.77518613967288,20.12147497254457,0 -98.77612339352892,20.1217467295659,0 -98.77741088975344,20.12177897469711,0 -98.77899231539593,20.12182785477209,0 -98.78050310021348,20.1218927265769,0 -98.78183479984932,20.1219655412137,0 -98.78203145615576,20.12103654424699,0 -98.78220347516493,20.12016474694153,0 -98.78223637601093,20.11998967444058,0 -98.78277218530366,20.11925997728429,0 -98.78316263208237,20.11888986949311,0 -98.78408589463648,20.11960067243833,0 -98.78551712105642,20.12075041136543,0 -98.78646058473932,20.12146861779757,0 -98.78716491128112,20.12199485916665,0 -98.78812823368129,20.12270411810947,0 -98.78866480955186,20.1228079237487,0 -98.78931690017249,20.12287158619607,0 -98.78951974798152,20.12284444493412,0 -98.78963122972048,20.12256969697,0 -98.78947892329988,20.12236112498522,0 -98.78884625297951,20.12214600483322,0 -98.78756000120509,20.12181060174718,0 -98.78727124057761,20.12168615048527,0 -98.78680476433718,20.12132746787918,0 -98.78678250743296,20.12120102452069,0 -98.78699623015379,20.12088854318134,0 -98.78717711313266,20.12062828757853,0 -98.78722987392808,20.12056285697715,0 -98.78670494624448,20.12017792312204,0 -98.78691210444995,20.11997970183642,0 -98.78742219619875,20.120264898523,0 -98.78864346036428,20.12033868502334,0 -98.78868404969207,20.12025489782681,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>​</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.78868404969207,20.12025489782681,0 -98.78780180241468,20.12008942116189,0 -98.78710407568802,20.11992421125853,0 -98.78674591676899,20.11978202030906,0 -98.78634731853508,20.1201933867892,0 -98.78597891150676,20.12057917207374,0 -98.78349334999798,20.11865205256772,0 -98.78277535002881,20.11809831258166,0 -98.78125804454187,20.11690032842326,0 -98.77947781357307,20.1154715545669,0 -98.7788639365441,20.11496058325994,0 -98.77757008748864,20.113734798658,0 -98.77712417212165,20.11331135587842,0 -98.7766253130051,20.11284546761149,0 -98.77653342347888,20.11282353349861,0 -98.77644523558746,20.11285880558678,0 -98.77639114529387,20.11295315889229,0 -98.7766169570605,20.11321874200567,0 -98.77860383192881,20.1150113919613,0 -98.78143111818689,20.11735563191026,0 -98.78306293646716,20.11861467701054,0 -98.78288048038505,20.11883775009295,0 -98.78274897058012,20.11903832408071,0 -98.78217500731023,20.11969339882389,0 -98.78193435914655,20.12062777605837,0 -98.78167563695288,20.1217555234174,0 -98.77841437136775,20.12162174444985,0 -98.77720418419824,20.12156842691628,0 -98.77586916322788,20.12146753158632,0 -98.77544729674288,20.12127015995045,0 -98.77485729894391,20.1205928037191,0 -98.77469944135778,20.11796222021922,0 -98.7745718386475,20.11489525045489,0 -98.77455045015304,20.11479603529686,0 -98.77315968346265,20.11369749705433,0 -98.77309861817905,20.11360746641342,0 -98.7730495069288,20.11322105297912,0 -98.77625345430512,20.11278112629373,0 -98.77571422309238,20.11202320580214,0 -98.77475464468039,20.11107074459859,0 -98.77258725194828,20.1090255866564,0 -98.77174038139641,20.10821939624986,0 -98.7697667843329,20.10635433065123,0 -98.76793483164435,20.10461766970598,0 -98.76583383272393,20.10268139536921,0 -98.76457450726464,20.10145583974238,0 -98.76362734749029,20.10058346742328,0 -98.76325241835757,20.10023804251154,0 -98.76303301397466,20.10044259546048,0 -98.76133921967333,20.10210049041231,0 -98.76091072547497,20.10259887355463,0 -98.76085707155598,20.10274116712715,0 -98.76075179390696,20.10288434004518,0 -98.76035183103222,20.10331031883534,0 -98.75978172247662,20.10387830246411,0 -98.75914267266857,20.1045011895344,0 -98.75883866320831,20.10483117822816,0 -98.75770233815872,20.10592709789974,0 -98.75679430318479,20.10661656295674,0 -98.75632176362302,20.10681553789763,0 -98.75584986678103,20.10684205183161,0 -98.75497596718819,20.10670268529989,0 -98.75362682132079,20.10646816263451,0 -98.75288289751072,20.10636302759459,0 -98.75193138355159,20.10618419864739,0 -98.75153355792871,20.10613627301034,0 -98.75121394428059,20.10611914218811,0 -98.75113759557382,20.10621680219705,0 -98.75119905697122,20.1063164159815,0 -98.75175847244445,20.10645091599018,0 -98.75215061848225,20.10654563207441,0 -98.75271288855049,20.10667111215973,0 -98.75304226694503,20.10659167327575,0 -98.75413053822099,20.10677915969529,0 -98.75563929182832,20.10704740576069,0 -98.75649884414115,20.1070573371666,0 -98.75690010778598,20.10692905995676,0 -98.75794651336848,20.10599791001071,0 -98.75870077573614,20.10532249956826,0 -98.75917246276146,20.10483104919976,0 -98.75973302586212,20.10423977217062,0 -98.76055662934931,20.10343267836104,0 -98.76172123692083,20.10233321987431,0 -98.76267926356876,20.10143393613835,0 -98.76300856726783,20.1011778914732,0 -98.76316507977752,20.10111666987264,0 -98.76341573495404,20.10110687077797,0 -98.76387519377126,20.10120755046319,0 -98.76552326096686,20.10276389659316,0 -98.76726371015835,20.1043965210359,0 -98.76924651790851,20.10623332756434,0 -98.77089214618337,20.10782175177221,0 -98.7723985000144,20.10919608572348,0 -98.77278871017295,20.1095400162766,0 -98.77324514966087,20.10998435150455,0 -98.77445751987507,20.1111662811124,0 -98.77453631375673,20.11125687655083,0 -98.77521982236873,20.11179947857879,0 -98.77559272505032,20.11216380404117,0 -98.7756024516744,20.11265310525328,0 -98.77407888075861,20.11289304294883,0 -98.7728044584122,20.11308555974535,0 -98.77289281865603,20.1136997617328,0 -98.77297709614916,20.11387938021987,0 -98.77350732790818,20.11430539949992,0 -98.77424012914079,20.1148909349074,0 -98.77430119122917,20.11501896239632,0 -98.77435687281059,20.11573870821996,0 -98.77440007610652,20.11675684543522,0 -98.774429736865,20.11822635899026,0 -98.77451991684683,20.11937315207112,0 -98.77460166343228,20.12040990236093,0 -98.7746282305328,20.12067002372914,0 -98.77508524431103,20.12128292181838,0 -98.77518613967288,20.12147497254457,0 -98.77612339352892,20.1217467295659,0 -98.77741088975344,20.12177897469711,0 -98.77899231539593,20.12182785477209,0 -98.78050310021348,20.1218927265769,0 -98.78183479984932,20.1219655412137,0 -98.78203145615576,20.12103654424699,0 -98.78220347516493,20.12016474694153,0 -98.78223637601093,20.11998967444058,0 -98.78277218530366,20.11925997728429,0 -98.78316263208237,20.11888986949311,0 -98.78408589463648,20.11960067243833,0 -98.78551712105642,20.12075041136543,0 -98.78646058473932,20.12146861779757,0 -98.78716491128112,20.12199485916665,0 -98.78812823368129,20.12270411810947,0 -98.78866480955186,20.1228079237487,0 -98.78931690017249,20.12287158619607,0 -98.78951974798152,20.12284444493412,0 -98.78963122972048,20.12256969697,0 -98.78947892329988,20.12236112498522,0 -98.78884625297951,20.12214600483322,0 -98.78756000120509,20.12181060174718,0 -98.78727124057761,20.12168615048527,0 -98.78680476433718,20.12132746787918,0 -98.78678250743296,20.12120102452069,0 -98.78699623015379,20.12088854318134,0 -98.78717711313266,20.12062828757853,0 -98.78722987392808,20.12056285697715,0 -98.78670494624448,20.12017792312204,0 -98.78691210444995,20.11997970183642,0 -98.78742219619875,20.120264898523,0 -98.78864346036428,20.12033868502334,0 -98.78868404969207,20.12025489782681,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

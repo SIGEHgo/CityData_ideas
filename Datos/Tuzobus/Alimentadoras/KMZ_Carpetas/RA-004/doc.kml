@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA-004.kmz</name>
+	<StyleMap id="icon-961-62AF4411000101004190">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-961-62AF44350001400106130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-961-62AF4440000011004160</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-961-62AF44350001400106130">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="icon-961-62AF4440000011004160">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle591">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle590</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight2010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot10000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot3000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot13000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot40000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot30000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot5000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot100000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot4000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot20000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot8000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight2010">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot100000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot2000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot40000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot8000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle4">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle590">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot0010">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot20000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot3000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot5000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder id="0E452707B930A9B076B7">
+		<name>RA-004</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada Ruta Alimentadora 4
+Blvd. La Palma Esq. El Bosque]]></description>
+				<LookAt>
+					<longitude>-98.80755812570816</longitude>
+					<latitude>20.04611810158471</latitude>
+					<altitude>0</altitude>
+					<heading>30.42939388357331</heading>
+					<tilt>27.04844669206482</tilt>
+					<range>496.020893800611</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot10000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80622933671411,20.04618167041999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle El Bosque]]></description>
+				<LookAt>
+					<longitude>-98.80686435774015</longitude>
+					<latitude>20.04385761538899</latitude>
+					<altitude>0</altitude>
+					<heading>30.42963194065704</heading>
+					<tilt>27.05213394765208</tilt>
+					<range>1399.056201669847</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot30000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80629307278474,20.04590658721316,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Girasoles]]></description>
+				<LookAt>
+					<longitude>-98.8043293124301</longitude>
+					<latitude>20.04420581261736</latitude>
+					<altitude>0</altitude>
+					<heading>30.43050081237249</heading>
+					<tilt>27.05232215977806</tilt>
+					<range>1445.141391726103</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot30000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80382340513871,20.04545713638672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Real de la Loma]]></description>
+				<LookAt>
+					<longitude>-98.79666443813099</longitude>
+					<latitude>20.04390530902022</latitude>
+					<altitude>0</altitude>
+					<heading>30.43299869376162</heading>
+					<tilt>24.49456106716611</tilt>
+					<range>426.178510494273</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#icon-961-62AF4411000101004190</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79697412854173,20.04422346257964,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4 *
+Blvd. La Palma (Residencial Las Palmas)]]></description>
+				<LookAt>
+					<longitude>-98.79775821751183</longitude>
+					<latitude>20.04254633184082</latitude>
+					<altitude>0</altitude>
+					<heading>30.43275295420332</heading>
+					<tilt>27.05249830203023</tilt>
+					<range>1488.270392858068</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot13000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79546595849556,20.04371620670057,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Blvd. Felipe Ángeles
+Zona de Transferencia Estación Tercera Edad]]></description>
+				<LookAt>
+					<longitude>-98.79373375345604</longitude>
+					<latitude>20.04273817495308</latitude>
+					<altitude>0</altitude>
+					<heading>-2.651530650044967</heading>
+					<tilt>35.35732910193362</tilt>
+					<range>130.2095995289854</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle591</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79377332426974,20.04301447413089,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Felipe Calderón]]></description>
+				<LookAt>
+					<longitude>-98.81169786360933</longitude>
+					<latitude>20.04560935071316</latitude>
+					<altitude>0</altitude>
+					<heading>30.42797505790255</heading>
+					<tilt>27.0520784595784</tilt>
+					<range>1385.469455401822</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot10000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80933399977189,20.04674659386516,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8-1</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Felipe Calderón]]></description>
+				<LookAt>
+					<longitude>-98.80675060299281</longitude>
+					<latitude>20.04527080511911</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03081487218581797</heading>
+					<tilt>24.98884167046766</tilt>
+					<range>2758.184737995746</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.81391198776709,20.04777327525022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Calle Real de la Loma.]]></description>
+				<LookAt>
+					<longitude>-98.79580809511633</longitude>
+					<latitude>20.03952882891516</latitude>
+					<altitude>0</altitude>
+					<heading>30.43314566686569</heading>
+					<tilt>18.58246129885051</tilt>
+					<range>1052.191845211569</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#icon-961-62AF4411000101004190</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79778379296992,20.04177619069122,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4 *
+Calle Real de la Loma Esq. Blvd. La Palma]]></description>
+				<LookAt>
+					<longitude>-98.79774989119994</longitude>
+					<latitude>20.04254183657791</latitude>
+					<altitude>0</altitude>
+					<heading>30.43275580878057</heading>
+					<tilt>27.0524983880075</tilt>
+					<range>1488.291394678202</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot13000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7967551443097,20.04395874847941,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. la Palma Esq. Calle Maguey]]></description>
+				<LookAt>
+					<longitude>-98.79917869908803</longitude>
+					<latitude>20.04459772979821</latitude>
+					<altitude>0</altitude>
+					<heading>30.43226599415431</heading>
+					<tilt>27.04873332795414</tilt>
+					<range>566.2143121447486</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot13000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79939560732603,20.04473954384437,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Bisnaga]]></description>
+				<LookAt>
+					<longitude>-98.80129322267645</longitude>
+					<latitude>20.04505550610508</latitude>
+					<altitude>0</altitude>
+					<heading>30.43154123898872</heading>
+					<tilt>27.04868408867196</tilt>
+					<range>554.156369536027</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#icon-961-62AF4411000101004190</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80199019566223,20.04525286515138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Girasoles]]></description>
+				<LookAt>
+					<longitude>-98.80361877660589</longitude>
+					<latitude>20.04554472777993</latitude>
+					<altitude>0</altitude>
+					<heading>30.43074414725333</heading>
+					<tilt>27.04861508055667</tilt>
+					<range>537.2571441647832</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#icon-961-62AF4411000101004190</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80344144708894,20.04558474807284,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10-1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Felipe Calderón]]></description>
+				<LookAt>
+					<longitude>-98.80672993798731</longitude>
+					<latitude>20.04525018819026</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03080778549812438</heading>
+					<tilt>24.98884217662575</tilt>
+					<range>2758.318037339195</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.81303315870863,20.04717735839829,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma Esq. Calle Felipe Calderón]]></description>
+				<LookAt>
+					<longitude>-98.80686435774015</longitude>
+					<latitude>20.04385761538899</latitude>
+					<altitude>0</altitude>
+					<heading>30.42963194065701</heading>
+					<tilt>27.0521339476521</tilt>
+					<range>1399.056201670075</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot4000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80959744292024,20.0466190940127,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4
+Blvd. La Palma.]]></description>
+				<LookAt>
+					<longitude>-98.80680209911996</longitude>
+					<latitude>20.04506969628212</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03083252803367977</heading>
+					<tilt>24.98883108789772</tilt>
+					<range>2755.395139183047</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.81861909456201,20.04851530506744,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4 *
+Blvd. la Palma Esq. Calle Maguey]]></description>
+				<LookAt>
+					<longitude>-98.80166770781943</longitude>
+					<latitude>20.04325713211663</latitude>
+					<altitude>0</altitude>
+					<heading>30.43141302365946</heading>
+					<tilt>27.05241034257696</tilt>
+					<range>1466.733212338446</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot13000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.79924521598703,20.04446264872431,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 4 *
+Calle Bisnaga Esq. Blvd. La Palma]]></description>
+				<LookAt>
+					<longitude>-98.80166770781943</longitude>
+					<latitude>20.04325713211663</latitude>
+					<altitude>0</altitude>
+					<heading>30.43141302365946</heading>
+					<tilt>27.05241034257696</tilt>
+					<range>1466.733212338446</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot13000</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.80183255697003,20.04493447938347,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Conexiones: T04, T05 (Estación Tercera Edad)
+Flota: 2 Vagonetas
+Recorrido Ida y Vuelta: 2.8 km
+Tiempo de Ciclo: 13.2 Min.
+Intervalo: 9.1 Min.]]></description>
+				<styleUrl>#msn_ylw-pushpin7</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.79385861327071,20.04285287308812,0 -98.79484238718922,20.04140112782747,0 -98.79525683028371,20.04134719579001,0 -98.79578545682924,20.04127725547433,0 -98.7961522640578,20.04109575670356,0 -98.79640435663423,20.04112131258604,0 -98.79779142098279,20.04183962433138,0 -98.7975045482706,20.04237059804904,0 -98.79718441760548,20.04297102359286,0 -98.79690488206269,20.04420493214744,0 -98.79743526576027,20.04434755141878,0 -98.797823911476,20.04442287319775,0 -98.79822616795093,20.04451701978642,0 -98.798571945509,20.04458489947734,0 -98.79889925612025,20.04465383653986,0 -98.79933225640762,20.0447513213521,0 -98.79976387555155,20.04482320197448,0 -98.8005542174665,20.04496704703785,0 -98.80111760882752,20.0450816433885,0 -98.80180683549204,20.04523632078858,0 -98.80246487208865,20.04538473838053,0 -98.80299426463478,20.04549901932641,0 -98.80357231315027,20.04562973733841,0 -98.80422441973977,20.04578006070823,0 -98.80467699930324,20.04585679469867,0 -98.80518015482841,20.04596053438068,0 -98.80570715353598,20.0460758643694,0 -98.80653370455197,20.04624089916759,0 -98.80766190955492,20.04645152352297,0 -98.81188463442668,20.04734521073746,0 -98.81830265574102,20.04862886313258,0 -98.81863724655156,20.04862910396841,0 -98.81830428172393,20.04849929729235,0 -98.81132247742659,20.04710968539677,0 -98.80967385357602,20.04673322788231,0 -98.80621776508799,20.04601359112923,0 -98.8035844074645,20.04552458816494,0 -98.80212500933315,20.04515471348916,0 -98.7994421584301,20.04464425050967,0 -98.79550120909066,20.0437853953357,0 -98.79348020485469,20.04338061004269,0 -98.79385861327071,20.04285287308812,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

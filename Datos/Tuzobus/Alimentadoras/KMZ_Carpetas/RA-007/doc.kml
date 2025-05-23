@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RA-007.kmz</name>
+	<StyleMap id="msn_bus0420">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus6250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus56800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight1100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot14000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot810</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot0021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot14000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot5100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot2010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot10001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shaded_dot9100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shaded_dot31000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shaded_dot21000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus56800">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight1100">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot10001">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot14000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot21000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shaded_dot810">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_bus6250">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle401">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot0021">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot14000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot2010">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shaded_dot31000">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder id="30F998E27630A9B076B5">
+		<name>RA-007</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>Paradas</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>1</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+ Blvd. Felipe Ángeles Esq. Av. De las Aves 
+Zona de Transferencia Estación Felipe Ángeles]]></description>
+				<LookAt>
+					<longitude>-98.78547927491529</longitude>
+					<latitude>20.05457228010892</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002205861613085521</heading>
+					<tilt>35.65796215238957</tilt>
+					<range>1015.084701706323</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_bus0420</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78638224569754,20.0550562503656,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De las Aves Esq. Calle De los Cisnes Poniente]]></description>
+				<LookAt>
+					<longitude>-98.78347569118874</longitude>
+					<latitude>20.05372147224722</latitude>
+					<altitude>0</altitude>
+					<heading>0.001344938058560532</heading>
+					<tilt>29.64326854128898</tilt>
+					<range>723.6983374307138</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78364842100888,20.05437511945112,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De las Aves Esq.  Guarderia Sueños y Sonrisas]]></description>
+				<LookAt>
+					<longitude>-98.78347569118874</longitude>
+					<latitude>20.05372147224722</latitude>
+					<altitude>0</altitude>
+					<heading>0.001344938058560532</heading>
+					<tilt>29.64326854128898</tilt>
+					<range>723.6983374307138</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78496029124571,20.05510032592003,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. Las Aves Esq. Av. De los Anades]]></description>
+				<LookAt>
+					<longitude>-98.78226195387418</longitude>
+					<latitude>20.0526231503608</latitude>
+					<altitude>0</altitude>
+					<heading>0.001761128678458868</heading>
+					<tilt>29.64327494074051</tilt>
+					<range>725.139163238169</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot5100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78215050463569,20.05293514531434,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De las Aves Esq. Av. Ferrocarril Central]]></description>
+				<LookAt>
+					<longitude>-98.77934389838944</longitude>
+					<latitude>20.05156193948745</latitude>
+					<altitude>0</altitude>
+					<heading>0.002761684249232967</heading>
+					<tilt>29.64328388916303</tilt>
+					<range>727.1539067547849</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot002</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77990648589,20.05261987744133,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De las Aves Esq. Av. De los Canarios]]></description>
+				<LookAt>
+					<longitude>-98.77865498312875</longitude>
+					<latitude>20.0529700097812</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003793856085072734</heading>
+					<tilt>27.21002457023838</tilt>
+					<range>315.0328949709342</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot201</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77852021674902,20.05285667349022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De Los Cisnes Oriente Esq. Av. De Los Cisnes Norte]]></description>
+				<LookAt>
+					<longitude>-98.77635018917707</longitude>
+					<latitude>20.05315611818746</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006122314975832883</heading>
+					<tilt>21.86361956391249</tilt>
+					<range>272.6276138949187</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot201</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77603294442545,20.05312516174717,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7 *
+Av. De los Cisnes Oriente Esq. Calle De Las Palomas]]></description>
+				<LookAt>
+					<longitude>-98.77656514083685</longitude>
+					<latitude>20.05062631720683</latitude>
+					<altitude>0</altitude>
+					<heading>58.55186038341144</heading>
+					<tilt>25.74663670522131</tilt>
+					<range>334.7320063492501</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot201</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77699809944652,20.05121026446956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De los Cisnes Oriente Esq. Av. De los Canarios]]></description>
+				<LookAt>
+					<longitude>-98.77803903408027</longitude>
+					<latitude>20.04974434887932</latitude>
+					<altitude>0</altitude>
+					<heading>58.56158552216265</heading>
+					<tilt>28.66157017795695</tilt>
+					<range>429.4978844470147</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot201</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77771521882835,20.04979875599022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. México Esq. Calle Copilco]]></description>
+				<LookAt>
+					<longitude>-98.77291135234157</longitude>
+					<latitude>20.04753328454319</latitude>
+					<altitude>0</altitude>
+					<heading>0.004967018914197208</heading>
+					<tilt>29.64230371077162</tilt>
+					<range>506.4360392261287</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot201</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77316482598833,20.04729518645629,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De los Cisnes Oriente Esq. Calle Polanco]]></description>
+				<LookAt>
+					<longitude>-98.77623323257781</longitude>
+					<latitude>20.04886256928621</latitude>
+					<altitude>0</altitude>
+					<heading>0.003828249893894801</heading>
+					<tilt>29.64330085360516</tilt>
+					<range>730.9735172565446</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot201</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77527042090296,20.04842156385052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+ Av. México Esq. Calle Estrella
+Inicio y Cierre de Recorrido]]></description>
+				<LookAt>
+					<longitude>-98.77242761116133</longitude>
+					<latitude>20.0462442518342</latitude>
+					<altitude>0</altitude>
+					<heading>0.003816316116891685</heading>
+					<tilt>32.14209842327048</tilt>
+					<range>474.6312750066171</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle105</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77148967392901,20.04640251654209,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. México Esq. Calle Polanco]]></description>
+				<LookAt>
+					<longitude>-98.77550364499636</longitude>
+					<latitude>20.04820102794165</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003998031922506791</heading>
+					<tilt>30.00087879620896</tilt>
+					<range>285.6231937853689</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77519097825878,20.04825004708374,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De los Canarios Esq. Av. De los Cisnes Sur]]></description>
+				<LookAt>
+					<longitude>-98.77784809235322</longitude>
+					<latitude>20.04983484619681</latitude>
+					<altitude>0</altitude>
+					<heading>-12.16914841675238</heading>
+					<tilt>27.29993592042021</tilt>
+					<range>285.1255295257106</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.7782235424941,20.04964982319148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7 *
+Av. De Los Canarios Esq. Calle Los Loros]]></description>
+				<LookAt>
+					<longitude>-98.77867698135145</longitude>
+					<latitude>20.05188615443118</latitude>
+					<altitude>0</altitude>
+					<heading>5.82412790146238</heading>
+					<tilt>35.94121342977603</tilt>
+					<range>514.3427684120566</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77845278706587,20.05132745536822,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De las Aves Esq. Av. de los Canarios]]></description>
+				<LookAt>
+					<longitude>-98.77891475488072</longitude>
+					<latitude>20.05236154082979</latitude>
+					<altitude>0</altitude>
+					<heading>-12.16949274426555</heading>
+					<tilt>34.00507911415005</tilt>
+					<range>263.6807565961905</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77883810166338,20.0524463301511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. De las Aves Esq. Av. Ferrocarril Central]]></description>
+				<LookAt>
+					<longitude>-98.7793363441082</longitude>
+					<latitude>20.05196847458907</latitude>
+					<altitude>0</altitude>
+					<heading>24.96617325403463</heading>
+					<tilt>24.33322894690791</tilt>
+					<range>470.4141580980587</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77999508472669,20.05231092023986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. Las Aves Esq. Calle de los Anades]]></description>
+				<LookAt>
+					<longitude>-98.780364256558</longitude>
+					<latitude>20.05290952503843</latitude>
+					<altitude>0</altitude>
+					<heading>-0.009181356312363101</heading>
+					<tilt>29.91689520311243</tilt>
+					<range>562.3377595842677</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78213603592364,20.05247319952132,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2</name>
+				<visibility>0</visibility>
+				<description><![CDATA[<img src="http://sitmah.hidalgo.gob.mx/wp-content/uploads/2014/10/sitmah_logo_1.png"/>
+
+"Dirección de Operación SITMAH"
+
+Parada de la Ruta Alimentadora 7
+Av. Las Aves Esq. Av. de los Cisnes Poniente]]></description>
+				<LookAt>
+					<longitude>-98.78455314090009</longitude>
+					<latitude>20.05403083986892</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001888274341460153</heading>
+					<tilt>35.65797580423687</tilt>
+					<range>1017.692727989896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_shaded_dot9100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78371540862013,20.0541817911515,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Recorrido</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>RA-007</name>
+				<visibility>0</visibility>
+				<description>RECORRIDO DE LA RUTA ALIMENTADORA 007 IDA Y VUELTA</description>
+				<styleUrl>#msn_ylw-pushpin9</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-98.78617269574559,20.05517463821261,0 -98.78554945770583,20.05514730147683,0 -98.78427980971765,20.05434800247317,0 -98.78408781104518,20.05452847007527,0 -98.78243205713464,20.05361913260011,0 -98.78203295334993,20.05217081665607,0 -98.78034144717077,20.05255123641083,0 -98.78031826376319,20.05243429835711,0 -98.78024200435696,20.05236099443462,0 -98.7801367529181,20.05235375714396,0 -98.77997354622612,20.0523896470315,0 -98.77896725797767,20.05261327024214,0 -98.77886421291531,20.0525632835639,0 -98.77874375157177,20.05245645319735,0 -98.77861610970578,20.0519164089973,0 -98.77804234088494,20.04991266775812,0 -98.77812153984358,20.04977004804884,0 -98.77812817062333,20.04963664399658,0 -98.77809861803354,20.04956973373804,0 -98.77800685797777,20.04951236153903,0 -98.77793059584762,20.0495245744389,0 -98.7778625883728,20.04959194919536,0 -98.77716978261356,20.04940609687673,0 -98.77603013141436,20.04876073983699,0 -98.77352727768154,20.04737434968694,0 -98.77130345082379,20.04620810933272,0 -98.77124273329487,20.04618651856409,0 -98.77120914640001,20.04620685469184,0 -98.77118522753811,20.04623594317433,0 -98.77126274649567,20.0462913936091,0 -98.7714679989585,20.04640917221728,0 -98.77357101587118,20.04751514272635,0 -98.77716934073436,20.04952770103871,0 -98.77782526632804,20.04971051633754,0 -98.77602963539779,20.05331280793648,0 -98.77613319691991,20.05343977010512,0 -98.77652848928368,20.05360772635435,0 -98.77653215207197,20.05340777444801,0 -98.77850353480488,20.05287853780114,0 -98.77858575798187,20.05288474511968,0 -98.77893352253834,20.05305978155854,0 -98.77910032539467,20.05280588678545,0 -98.77999931931072,20.05261252951368,0 -98.7801503759229,20.05276651451754,0 -98.78041218443801,20.05268746567985,0 -98.78169203188534,20.05243613503358,0 -98.78207304104816,20.0526008380575,0 -98.78221137571938,20.05315229678846,0 -98.78204984442731,20.05347868021342,0 -98.78501453450627,20.05520509409552,0 -98.78520685852031,20.05507184411213,0 -98.78565781617104,20.05531645687222,0 -98.78663357246489,20.05531635104417,0 -98.78661404337683,20.05515558445687,0 -98.78617269574559,20.05517463821261,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+AWS_credentials.py
+AWS_Connection.py
