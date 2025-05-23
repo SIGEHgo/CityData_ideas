@@ -18,13 +18,28 @@ for (i in seq_along(archivos)) {
   datos = rbind(datos, leer)
 }
 
+datos = datos |> dplyr::filter(trip_duration_sec > 59, trip_distance_m > 29)
+mun = sf::read_sf("../../Importantes_documentos_usar/Municipios/municipiosjair.shp")
+
+prueba = sf::st_as_sf(x = datos, coords = c("overlap_origin_long", "overlap_destination_lat"), crs = sf::st_crs(mun))
+interseccion = sf::st_intersects(x = mun, y = prueba)
+
+destino_final = sf::st_as_sf(x = datos, coords = c("overlap_origin_long", "overlap_destination_lat"), crs = sf::st_crs(mun))
+
+plot(mun$geometry)
+plot(prueba$geometry, add = T, col = "red")
+
+plot(mun$geometry[1])
+plot(prueba$geometry[unlist(interseccion[1])], add = T, col = "red")
+
 mapa_web = leaflet() |>
   addTiles() |>
-  addHeatmap(data = datos ,lng = datos$overlap_origin_long, lat = datos$overlap_destination_lat, blur = 5, max = 1, radius = 5) # intensity = datos$trip_scaled_ratio
+  addHeatmap(data = datos ,lng = datos$overlap_origin_long, lat = datos$overlap_origin_lat, b, radius = 5, intensity = log(datos$trip_scaled_ratio+1)) # intensity = datos$trip_scaled_ratio
 
 mapa_web
 
 
+log(datos$trip_scaled_ratio+1) |> hist()
 conteo_manzana = datos |> dplyr::select(origin_geoid, trip_scaled_ratio) |>
   dplyr::group_by(origin_geoid) |>
   dplyr::summarise(conteo = dplyr::n(), suma_trip_scaled_ratio = sum(trip_scaled_ratio, na.rm = T))
