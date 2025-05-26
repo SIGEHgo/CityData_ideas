@@ -19,27 +19,18 @@ for (i in seq_along(archivos)) {
 }
 
 datos = datos |> dplyr::filter(trip_duration_sec > 59, trip_distance_m > 29)
-mun = sf::read_sf("../../Importantes_documentos_usar/Municipios/municipiosjair.shp")
 
-prueba = sf::st_as_sf(x = datos, coords = c("overlap_origin_long", "overlap_destination_lat"), crs = sf::st_crs(mun))
-interseccion = sf::st_intersects(x = mun, y = prueba)
-
-destino_final = sf::st_as_sf(x = datos, coords = c("overlap_origin_long", "overlap_destination_lat"), crs = sf::st_crs(mun))
-
-plot(mun$geometry)
-plot(prueba$geometry, add = T, col = "red")
-
-plot(mun$geometry[1])
-plot(prueba$geometry[unlist(interseccion[1])], add = T, col = "red")
-
+## A nivel punto
 mapa_web = leaflet() |>
   addTiles() |>
-  addHeatmap(data = datos ,lng = datos$overlap_origin_long, lat = datos$overlap_origin_lat, b, radius = 5, intensity = log(datos$trip_scaled_ratio+1)) # intensity = datos$trip_scaled_ratio
+  addHeatmap(data = datos ,lng = datos$overlap_origin_long, lat = datos$overlap_origin_lat, radius = 5, blur = 5, max = 1,intensity = datos$trip_scaled_ratio) # intensity = datos$trip_scaled_ratio
 
 mapa_web
 
+saveWidget(mapa_web,"Datos/Tuzobus/Alimentadoras/mapa_calor_nivel_punto.html",selfcontained = F,title = "Lugares de origen de usuarios de alimentadora")  
 
-log(datos$trip_scaled_ratio+1) |> hist()
+
+### A nivel manzana
 conteo_manzana = datos |> dplyr::select(origin_geoid, trip_scaled_ratio) |>
   dplyr::group_by(origin_geoid) |>
   dplyr::summarise(conteo = dplyr::n(), suma_trip_scaled_ratio = sum(trip_scaled_ratio, na.rm = T))
@@ -69,4 +60,54 @@ mapa_web = leaflet() |>
 
 mapa_web
 
-saveWidget(mapa_web,"Datos/Tuzobus/Alimentadoras/mapa_calor.html",selfcontained = F,title = "Lugares de origen de usuarios de alimentadora")  
+saveWidget(mapa_web,"Datos/Tuzobus/Alimentadoras/mapa_calor_nivel_manzana.html",selfcontained = F,title = "Lugares de origen de usuarios de alimentadora")  
+
+
+
+
+
+##### Version por meses
+archivos = list.files(path = "Datos/Tuzobus/Alimentadoras/CityData_Filtracion/", pattern = ".csv", full.names = T)
+datos = NULL
+for (i in seq_along(archivos)) {
+  leer = read.csv(archivos[i])
+  cat("El tamaño es:", nrow(leer), "\n")
+  datos = rbind(datos, leer)
+}
+
+datos = datos |> dplyr::filter(trip_duration_sec > 59, trip_distance_m > 29)
+datos = datos |> dplyr::mutate(mes = substr(x = start_timestamp, start = 1, stop = 7))
+datos$mes |> unique()
+
+junio = datos |> dplyr::filter(mes == "2023-06") |> dplyr::select(-mes)
+
+mapa_web = leaflet() |>
+  addTiles() |>
+  addHeatmap(data = junio,lng = junio$overlap_origin_long, lat = junio$overlap_origin_lat, blur = 5, max = 1, radius = 5, intensity = junio$trip_scaled_ratio) # intensity = datos$trip_scaled_ratio
+
+mapa_web
+
+saveWidget(mapa_web,"Datos/Tuzobus/Alimentadoras/junio_punto.html",selfcontained = F,title = "Lugares de origen de usuarios de alimentadora")  
+# Octubre
+octubre = datos |> dplyr::filter(mes == "2023-10") |> dplyr::select(-mes)
+
+mapa_web = leaflet() |>
+  addTiles() |>
+  addHeatmap(data = octubre,lng = octubre$overlap_origin_long, lat = octubre$overlap_origin_lat, blur = 5, max = 1, radius = 5, intensity = octubre$trip_scaled_ratio) # intensity = datos$trip_scaled_ratio
+
+mapa_web
+
+saveWidget(mapa_web,"Datos/Tuzobus/Alimentadoras/octubre_punto.html",selfcontained = F,title = "Lugares de origen de usuarios de alimentadora")  
+
+# Diciembre
+
+diciembre = datos |> dplyr::filter(mes == "2023-12") |> dplyr::select(-mes)
+
+mapa_web = leaflet() |>
+  addTiles() |>
+  addHeatmap(data = diciembre,lng = diciembre$overlap_origin_long, lat = diciembre$overlap_origin_lat, blur = 5, max = 1, radius = 5, intensity = diciembre$trip_scaled_ratio) # intensity = datos$trip_scaled_ratio
+
+mapa_web
+
+saveWidget(mapa_web,"Datos/Tuzobus/Alimentadoras/diciembre_punto.html",selfcontained = F,title = "Lugares de origen de usuarios de alimentadora")  
+
