@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ESTACIONES.kml</name>
+	<Style id="icon-959-DB443600000480001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/23p%20bioparque.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436001000012803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436005600002803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360023010012803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB44360011000380001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436003000380001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436004700380001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB44360011100280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/16%20centro%20minero.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360012003803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/17%20zona%20plateada.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360013000380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/14%20tecnologico.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB443600150000280001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360045000380001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436007400380001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB443600160000280001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436003500380001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600440000280001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB44360017003803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/11%20cdoria.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB443600180012803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360093002803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436004800002803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600190012803001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/19%20central%20de%20autobuses%20-%20copia_0_0.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB443600190012804">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/19%20central%20de%20autobuses%20-%20copia.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360020001280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/23p%20bioparque.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360021000280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/13%20seph.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360021100280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/20%20cuna%20del%20futbol.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436002210280001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436008510280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360037000280001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB44360023010012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/18%20tec%20de%20monterrey.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436002400380001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360041000280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436007600380001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600250012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/23o%20revolucion.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436002600380001200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360083000280001200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600540002800012</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600270012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/3%20matilde.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436002800028030">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436004010028040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600190012803001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB443600280002804">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600401002803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600190012804</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB4436002900012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/15%20bicentenario.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436003000380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/6%20san%20antonio.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360031100280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/21%20santa%20julia.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360031104803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/22%20prepa%201.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360032100280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/13%20seph.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436003300128033">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600730012803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600650048033</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB443600340003803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436005120002803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436003610002803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB4436003500380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/4%20efren%20rebolledo.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436003610002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/9%20centro%20de%20justicia.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360037000280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/2%20gabriel%20mancera.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436003800480001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360020001280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600000480001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600401002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/19%20central%20de%20autobuses%20-%20copia.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436004010028040">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/19%20central%20de%20autobuses%20-%20copia_0_0.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360041000280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/24o%20manuel%20dublan.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB443600420002800012">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/27%20centro%20historico.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB44360043000280001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436009200280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360081000280001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600440000280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/4%20efren%20rebolledo.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360045000380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/7%20ejercito%20mexicano.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436004600380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/16%20centro%20minero.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436004700380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/6%20san%20antonio.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436004800002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/25o%20presidente%20aleman.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360049000280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/5%20tercera%20edad.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436005000380001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360071100380001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360013000380001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB443600511002803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360031104803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600880002803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB44360051101280001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360031100280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360088001280001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB4436005120002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/9%20centro%20de%20justicia.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436005200380001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360021100280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436005900380001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600540002800012">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/26%20nin%CC%83os%20heroes.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436005500002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/10%20vicente%20segura.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436005600002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/18%20tec%20de%20monterrey.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB443600580000012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/3%20matilde.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436005900380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/20%20cuna%20del%20futbol.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB44360060000380001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360032100280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360021000280001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600611002800012">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/27%20centro%20historico.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB443600620012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/12%20hospitales.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB443600630002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/23o%20revolucion.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436006400380001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436004600380001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360011100280001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600650048033">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/25p%20plaza%20juarez.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB443600661002803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600901005803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436002900012803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB44360067000380001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360075000280001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360049000280001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB443600680002803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436007800302803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436005500002803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB4436006900002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/11%20cdoria.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB443600710202803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/8%20felipe%20angeles.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360071100380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/14%20tecnologico.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB4436007200012803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600270012803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600580000012803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600730012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/25p%20plaza%20juarez.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436007400380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/7%20ejercito%20mexicano.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360075000280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/5%20tercera%20edad.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436007600380001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/24o%20manuel%20dublan.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436007700102803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/8%20felipe%20angeles.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436007800302803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/10%20vicente%20segura.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB443600790038000120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600611002800012</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600420002800012</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-959-DB44360080003803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB44360091003803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360012003803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB44360081000280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/24o%20manuel%20dublan.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB44360081104803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600250012803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB443600630002803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB44360082012803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/12%20hospitales.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360083000280001200">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/26%20nin%CC%83os%20heroes.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB44360084012803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600620012803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360082012803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB4436008510280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/2%20gabriel%20mancera.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB443600860002803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB443600710202803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB4436007700102803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600880002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/22%20prepa%201.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360088001280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/21%20santa%20julia.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-959-DB443600890002803">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-959-DB4436006900002803</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-959-DB44360017003803</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-959-DB443600901005803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/15%20bicentenario.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360091003803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/17%20zona%20plateada.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB4436009200280001">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/24o%20manuel%20dublan.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-959-DB44360093002803">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/25o%20presidente%20aleman.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_1 tellez">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1 tellez</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1 tellez</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_1 tellez">
+		<IconStyle>
+			<scale>0.933333</scale>
+			<Icon>
+				<href>files/1%20tellez.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_1 tellez">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>files/1%20tellez.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder id="02FC220C1C30A9AF515F">
+		<name>ESTACIONES</name>
+		<visibility>0</visibility>
+		<Folder id="0091EDD7AB30A9AF607E">
+			<name>Estaciones</name>
+			<visibility>0</visibility>
+			<Placemark id="0133B5DD2230A9AFE5A9">
+				<name>19O- Central de Autobuses</name>
+				<visibility>0</visibility>
+				<description>TRUE</description>
+				<styleUrl>#icon-959-DB4436002800028030</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.7512240017596,20.10614436644907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="056A413E2C30A9AFE65C">
+				<name>12 - Hospitales</name>
+				<visibility>0</visibility>
+				<description>12 - Hospitales</description>
+				<styleUrl>#icon-959-DB44360084012803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.77659526177698,20.07519857145185,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1536A52F3E30A9AFE65C">
+				<name>3 - Matilde</name>
+				<visibility>0</visibility>
+				<description>3 - Matilde</description>
+				<styleUrl>#icon-959-DB4436007200012803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80273058977987,20.03098581756171,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0C371AA5F330A9AFE65D">
+				<name>8 - Felipe Ángeles</name>
+				<visibility>0</visibility>
+				<description>8 - Felipe Ángeles</description>
+				<styleUrl>#icon-959-DB443600860002803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.78673359583014,20.05582975849202,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="13113DD60A30A9AFE65D">
+				<name>9 - Centro de Justicia</name>
+				<visibility>0</visibility>
+				<description>9 - Centro de Justicia</description>
+				<styleUrl>#icon-959-DB443600340003803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.78442449820464,20.06015689581799,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="05F6A23ECA30A9AFE65E">
+				<name>10 - Vicente Segura</name>
+				<visibility>0</visibility>
+				<description>10 - Vicente Segura</description>
+				<styleUrl>#icon-959-DB443600680002803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.78235010093486,20.06427225476794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1A258C6C1F30A9AFE65E">
+				<name>11 - Juan C. Doria</name>
+				<visibility>0</visibility>
+				<description>11 - Juan C. Doria</description>
+				<styleUrl>#icon-959-DB443600890002803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.78014727934598,20.06842102024003,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="050F988A1730A9AFE65F">
+				<name>15 -  Bicentenario</name>
+				<visibility>0</visibility>
+				<description>15 -  Bicentenario</description>
+				<styleUrl>#icon-959-DB443600661002803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.77113416636843,20.08833249369625,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="055B9B139630A9AFE660">
+				<name>17 - Zona Plateada</name>
+				<visibility>0</visibility>
+				<description>17 - Zona Plateada</description>
+				<styleUrl>#icon-959-DB44360080003803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.76911772439173,20.09495310535866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1E514FA8FB30A9AFE660">
+				<name>18 - Tec de Monterrey</name>
+				<visibility>0</visibility>
+				<description>18 - Tec de Monterrey</description>
+				<styleUrl>#icon-959-DB4436001000012803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.76545419990249,20.09842866223507,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="05C36BE36F30A9AFE661">
+				<name>19 - Estadio Hidalgo</name>
+				<visibility>0</visibility>
+				<description>19 - Central de Autobuses</description>
+				<styleUrl>#icon-959-DB443600280002804</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.76085399182935,20.10286239057686,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0FC3C34B5E30A9AFE662">
+				<name>22 - Prepa 1</name>
+				<visibility>0</visibility>
+				<description>22 - Prepa 1</description>
+				<styleUrl>#icon-959-DB443600511002803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.74789464360087,20.1149090603778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="15D4CAA3AD30A9AFE662">
+				<name>23 O - Revolución</name>
+				<visibility>0</visibility>
+				<description>23 O - Revolución</description>
+				<styleUrl>#icon-959-DB44360081104803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.74268755442341,20.116185744354,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0832495C0230A9AFE663">
+				<name>25 O - Presidente Alemán</name>
+				<visibility>0</visibility>
+				<description>25 O - Presidente Alemán</description>
+				<styleUrl>#icon-959-DB443600180012803</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.7347405769181,20.12185669933482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1D85BE594C30A9AFE663">
+				<name>25 P - Plaza Juárez</name>
+				<visibility>0</visibility>
+				<description>25 P - Plaza Juárez</description>
+				<styleUrl>#icon-959-DB4436003300128033</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.73722138227276,20.1225693039172,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0EB0741E5630A9AFE664">
+				<name>27 - Centro Hístorico</name>
+				<visibility>0</visibility>
+				<description>27 - Centro Hístorico</description>
+				<styleUrl>#icon-959-DB443600790038000120</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.73126328606945,20.12934826420777,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="16A387BC7F30A9AFE664">
+				<name>26 Niños Héroes</name>
+				<visibility>0</visibility>
+				<description>26 P - Niños Héroes</description>
+				<styleUrl>#icon-959-DB4436002600380001200</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.73284989408009,20.12520261727193,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0D31F821C130A9AFE665">
+				<name>24 P - Parque del Maestro</name>
+				<visibility>0</visibility>
+				<description>24 P - Parque del Maestro</description>
+				<styleUrl>#icon-959-DB44360043000280001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.74068831579339,20.12019987808159,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="02F688D92930A9AFE666">
+				<name>23 P -  Bioparque</name>
+				<visibility>0</visibility>
+				<description>23 P -  Bioparque</description>
+				<styleUrl>#icon-959-DB4436003800480001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.74486285615693,20.11707936065119,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1BEF3B612C30A9AFE666">
+				<name>24 O - Manuel Dublán</name>
+				<visibility>0</visibility>
+				<description>24 O - Manuel Dublán</description>
+				<styleUrl>#icon-959-DB4436002400380001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.73935283484153,20.11852354595832,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="03765C924B30A9AFE667">
+				<name>21 - Santa Julia</name>
+				<visibility>0</visibility>
+				<description>21 - Santa Julia</description>
+				<styleUrl>#icon-959-DB44360051101280001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.75092264341276,20.11247070865477,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="184265F49730A9AFE667">
+				<name>20 - Cuna de Futbol</name>
+				<visibility>0</visibility>
+				<description>20 - Central de Autobuses</description>
+				<styleUrl>#icon-959-DB4436005200380001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.75493588835865,20.1086834575816,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="06F5C4834C30A9AFE668">
+				<name>16 - Centro Minero</name>
+				<visibility>0</visibility>
+				<description>16 - Centro Minero</description>
+				<styleUrl>#icon-959-DB4436006400380001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.77084900889848,20.09097611355229,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1C77CCA19E30A9AFE668">
+				<name>14 - Tecnológico</name>
+				<visibility>0</visibility>
+				<description>14 - Tecnológico</description>
+				<styleUrl>#icon-959-DB4436005000380001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.77268373132391,20.08336866719083,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0AD3FB8E5930A9AFE669">
+				<name>13 - SEPH</name>
+				<visibility>0</visibility>
+				<description>13 - SEPH</description>
+				<styleUrl>#icon-959-DB44360060000380001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.77464100623217,20.07915424161287,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1E073D7FB230A9AFE669">
+				<name>7 - Ejército Mexicano</name>
+				<visibility>0</visibility>
+				<description>7 - Ejército Mexicano</description>
+				<styleUrl>#icon-959-DB443600150000280001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.78954303639075,20.0503223468858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0404D330FB30A9AFE66A">
+				<name>6 - San Antonio</name>
+				<visibility>0</visibility>
+				<description>6 - San Antonio</description>
+				<styleUrl>#icon-959-DB44360011000380001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.79129035873254,20.04710256274861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="11CAC113EC30A9AFE66A">
+				<name>5 - Tercera Edad</name>
+				<visibility>0</visibility>
+				<description>5 - Tercera Edad</description>
+				<styleUrl>#icon-959-DB44360067000380001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.79397516659135,20.04227338612706,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="036CAC6B4F30A9AFE66B">
+				<name>4 - Efrén Rebolledo</name>
+				<visibility>0</visibility>
+				<description>4 - Efrén Rebolledo</description>
+				<styleUrl>#icon-959-DB443600160000280001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.79890913350457,20.03527261923493,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="19F552321830A9AFE66B">
+				<name>2 - Gabriel Mancera</name>
+				<visibility>0</visibility>
+				<description>2 - Gabriel Mancera</description>
+				<styleUrl>#icon-959-DB4436002210280001</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80881960535359,20.02462786866787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0BE040A91930A9AFE66C">
+				<name>1 - Téllez</name>
+				<visibility>0</visibility>
+				<description>1 - Téllez</description>
+				<styleUrl>#msn_1 tellez</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.80446473077771,20.01222693836151,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>

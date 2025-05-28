@@ -21,7 +21,7 @@ for (i in seq_along(archivos)) {
 
 
 ### Puntos
-archivos = list.files("CityData_ideas/Datos/Tuzobus/Alimentadoras/KMZ_Carpetas/", pattern = "\\.kml$", full.names = TRUE, all.files = T,recursive = T)
+archivos = list.files("Datos/Tuzobus/Alimentadoras/KMZ_Carpetas/", pattern = "\\.kml$", full.names = TRUE, all.files = T,recursive = T)
 archivos = grep("doc\\.kml$", archivos, value = TRUE)
 nombres = basename(dirname(archivos))
 
@@ -48,9 +48,9 @@ for (i in seq_along(archivos)) {
 sf::write_sf(todo, "CityData_ideas/Datos/Tuzobus/Alimentadoras/Completos/Puntos/alimentadoras_puntos.shp")
 
 
-### Lineas
+### Lineas bien(Pero no como me gustaria xd)
 
-archivos = list.files("CityData_ideas/Datos/Tuzobus/Alimentadoras/KMZ_Carpetas/", pattern = "\\.kml$", full.names = TRUE, all.files = T,recursive = T)
+archivos = list.files("Datos/Tuzobus/Alimentadoras/KMZ_Carpetas/", pattern = "\\.kml$", full.names = TRUE, all.files = T,recursive = T)
 archivos = grep("doc\\.kml$", archivos, value = TRUE)
 nombres = basename(dirname(archivos))
 
@@ -65,44 +65,35 @@ for (i in seq_along(archivos)) {
   datos$Des = sub('.*"Dirección de Operación SITMAH"\\s*', '', datos$Description)
   datos = datos |> dplyr::select(RA, Name, Description, Des)
   
-  if (nrow(datos) > 1) {
-    coordenadas = sf::st_coordinates(datos) 
-    coordenadas = coordenadas[, -3]
-    coordenadas_unicas = coordenadas |> unique()
+  #if (nrow(datos) > 1) {
+    #coordenadas = sf::st_coordinates(datos) 
+    #coordenadas = coordenadas[, -3]
+    #coordenadas_unicas = coordenadas |> unique()
     
-    linestring = sf::st_linestring(coordenadas_unicas)
-    sf_line = sf::st_sf(geometry = sf::st_sfc(linestring), crs = sf::st_crs(datos))
-    sf_line$RA = nombres[i]
-    sf_line$Name = nombres[i]
-    sf_line$Description = nombres[i]
-    sf_line$Des = nombres[i]
-    datos = sf_line
-    datos = datos |> dplyr::select(RA, Name, Description, Des)
-  }
+    #linestring = sf::st_linestring(coordenadas_unicas)
+    #sf_line = sf::st_sf(geometry = sf::st_sfc(linestring), crs = sf::st_crs(datos))
+    #sf_line$RA = nombres[i]
+    #sf_line$Name = nombres[i]
+    #sf_line$Description = nombres[i]
+    #sf_line$Des = nombres[i]
+    #datos = sf_line
+    #datos = datos |> dplyr::select(RA, Name, Description, Des)
+  #}
   todo = rbind(todo, datos)
 }
 
-rutas_aportacion = sf::read_sf("CityData_ideas/Datos/Tuzobus/Datos_como_se_enviaron/ruta_aportación/Rutas_de_aportacion.shp")
+rutas_aportacion = sf::read_sf("Datos/Tuzobus/Datos_como_se_enviaron/ruta_aportación/Rutas_de_aportacion.shp")
 rutas_aportacion = sf::st_zm(x = rutas_aportacion)     # Eliminar la tercer coordenada
 rutas_aportacion$geometry |> plot()
 
-coordenadas = sf::st_coordinates(rutas_aportacion) 
-coordenadas = coordenadas[, -3]
-coordenadas_unicas = coordenadas |> unique()
+rutas_aportacion$RA = "Rutas de aportacion"
+rutas_aportacion$Des = "Ruta de aportación CETRAM-CENTRAL-HOSPITALES"
+rutas_aportacion$Description = rutas_aportacion$FolderPath
 
-linestring = sf::st_linestring(coordenadas_unicas)
-sf_line = sf::st_sf(geometry = sf::st_sfc(linestring), crs = sf::st_crs(rutas_aportacion))
-sf_line$RA = "Rutas de aportacion"
-sf_line$Name = "Ruta de aportación CETRAM-CENTRAL-HOSPITALES"
-sf_line$Description = "Ruta de aportación CETRAM-CENTRAL-HOSPITALES"
-sf_line$Des = "Ruta de aportación CETRAM-CENTRAL-HOSPITALES"
-
-
-rutas_aportacion = sf_line
 rutas_aportacion = rutas_aportacion |> dplyr::select(RA, Name, Description, Des)
 
 todo = rbind(todo, rutas_aportacion)
 
-sf::write_sf(todo,"CityData/Tuzobus/Manual/Rutas Alimentadoras/Rutas_Alimentadoras_lineas_con_ruta_aportacion.shp")
+sf::write_sf(todo,"Datos/Tuzobus/Alimentadoras/Completos/Rutas/alimentadoras_rutas.shp")
 
 
