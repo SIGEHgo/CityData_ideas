@@ -154,10 +154,10 @@ junio = datos |> dplyr::filter(mes == "2023-06") |> dplyr::select(-mes)
 mapa_web = leaflet() |>
   addTiles() |>
   addHeatmap(data = junio,lng = junio$overlap_origin_long, lat = junio$overlap_origin_lat, blur = 5, max = 1, radius = 5, intensity = junio$trip_scaled_ratio) |>
-  addPolylines(data = rutas[1,], label = rutas$Nombre[1], color = "green", group = "T-01", weight = 10) |>
-  addPolylines(data = rutas[2,], label = rutas$Nombre[2], color = "purple", group = "T-02", weight = 10) |>
-  addPolylines(data = rutas[3,], label = rutas$Nombre[3], color = "orange", group = "T-04", weight = 10) |>
-  addPolylines(data = rutas[4,], label = rutas$Nombre[4], color = "red", group = "T-05", weight = 10) |>
+  addPolylines(data = rutas[1,], label = rutas$Nombre[1], color = "green", group = "T-01", weight = 3) |>
+  addPolylines(data = rutas[2,], label = rutas$Nombre[2], color = "purple", group = "T-02", weight = 3) |>
+  addPolylines(data = rutas[3,], label = rutas$Nombre[3], color = "orange", group = "T-04", weight = 3) |>
+  addPolylines(data = rutas[4,], label = rutas$Nombre[4], color = "red", group = "T-05", weight = 3) |>
   addLayersControl(baseGroups = c("Sitio de Origen Usuarios"), overlayGroups = c("T-01", "T-02", "T-04", "T-05"),position = "topright",  options = layersControlOptions(collapsed = F)) |>
   hideGroup(group = c("T-01", "T-02", "T-04", "T-05")) |>
   htmlwidgets::onRender("
@@ -191,10 +191,10 @@ octubre = datos |> dplyr::filter(mes == "2023-10") |> dplyr::select(-mes)
 mapa_web = leaflet() |>
   addTiles() |>
   addHeatmap(data = octubre,lng = octubre$overlap_origin_long, lat = octubre$overlap_origin_lat, blur = 5, max = 1, radius = 5, intensity = octubre$trip_scaled_ratio) |>
-  addPolylines(data = rutas[1,], label = rutas$Nombre[1], color = "green", group = "T-01", weight = 10) |>
-  addPolylines(data = rutas[2,], label = rutas$Nombre[2], color = "purple", group = "T-02", weight = 10) |>
-  addPolylines(data = rutas[3,], label = rutas$Nombre[3], color = "orange", group = "T-04", weight = 10) |>
-  addPolylines(data = rutas[4,], label = rutas$Nombre[4], color = "red", group = "T-05", weight = 10) |>
+  addPolylines(data = rutas[1,], label = rutas$Nombre[1], color = "green", group = "T-01", weight = 3) |>
+  addPolylines(data = rutas[2,], label = rutas$Nombre[2], color = "purple", group = "T-02", weight = 3) |>
+  addPolylines(data = rutas[3,], label = rutas$Nombre[3], color = "orange", group = "T-04", weight = 3) |>
+  addPolylines(data = rutas[4,], label = rutas$Nombre[4], color = "red", group = "T-05", weight = 3) |>
   addLayersControl(baseGroups = c("Sitio de Origen Usuarios"), overlayGroups = c("T-01", "T-02", "T-04", "T-05"),position = "topright",  options = layersControlOptions(collapsed = F)) |>
   hideGroup(group = c("T-01", "T-02", "T-04", "T-05")) |>
   htmlwidgets::onRender("
@@ -228,10 +228,10 @@ diciembre = datos |> dplyr::filter(mes == "2023-12") |> dplyr::select(-mes)
 mapa_web = leaflet() |>
   addTiles() |>
   addHeatmap(data = diciembre,lng = diciembre$overlap_origin_long, lat = diciembre$overlap_origin_lat, blur = 5, max = 1, radius = 5, intensity = diciembre$trip_scaled_ratio) |>
-  addPolylines(data = rutas[1,], label = rutas$Nombre[1], color = "green", group = "T-01", weight = 10) |>
-  addPolylines(data = rutas[2,], label = rutas$Nombre[2], color = "purple", group = "T-02", weight = 10) |>
-  addPolylines(data = rutas[3,], label = rutas$Nombre[3], color = "orange", group = "T-04", weight = 10) |>
-  addPolylines(data = rutas[4,], label = rutas$Nombre[4], color = "red", group = "T-05", weight = 10) |>
+  addPolylines(data = rutas[1,], label = rutas$Nombre[1], color = "green", group = "T-01", weight = 3) |>
+  addPolylines(data = rutas[2,], label = rutas$Nombre[2], color = "purple", group = "T-02", weight = 3) |>
+  addPolylines(data = rutas[3,], label = rutas$Nombre[3], color = "orange", group = "T-04", weight = 3) |>
+  addPolylines(data = rutas[4,], label = rutas$Nombre[4], color = "red", group = "T-05", weight = 3) |>
   addLayersControl(baseGroups = c("Sitio de Origen Usuarios"), overlayGroups = c("T-01", "T-02", "T-04", "T-05"),position = "topright",  options = layersControlOptions(collapsed = F)) |>
   hideGroup(group = c("T-01", "T-02", "T-04", "T-05")) |>
   htmlwidgets::onRender("
